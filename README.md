@@ -1,29 +1,29 @@
 
-<!-- =========================================================
-     SUNKIREDDY BARATH | PREMIUM GITHUB PROFILE
-     Theme: Midnight | Neon Cyan | Electric Blue | Violet
-     Replace YOUR_GITHUB_USERNAME before publishing.
-========================================================== -->
+<!-- =====================================================
+     SUNKIREDDY BARATH | GITHUB PROFILE README
+     FULL-WIDTH | MIDNIGHT | NEON | ANIMATED
+     GitHub username: sunkireddy-Barath
+====================================================== -->
 
 <!-- ================= HERO ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=SUNKIREDDY%20BARATH&fontSize=52&fontColor=FFFFFF&color=0:020617,35:172554,70:1D4ED8,100:06B6D4&stroke=38BDF8&strokeWidth=1&animation=fadeIn&desc=ASPIRING%20SOFTWARE%20DEVELOPMENT%20ENGINEER&descSize=18&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=SUNKIREDDY%20BARATH&fontSize=55&fontColor=FFFFFF&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&stroke=38BDF8&strokeWidth=2&animation=fadeIn&desc=ASPIRING%20SOFTWARE%20DEVELOPMENT%20ENGINEER&descSize=19&descAlignY=72"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=600&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Software+Development+Engineer;Full+Stack+Developer;AI%2FML+Engineer;Competitive+Programmer;National+Hackathon+Winner;Building+Intelligent+Software+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=Aspiring+Software+Development+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Building+Intelligent+Software"/>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sunkireddy-Barath">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sunkireddybarath07@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/barath80/">
@@ -32,52 +32,50 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=sunkireddy-Barath&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ================= INTRODUCTION ================= -->
+<!-- ================= ABOUT ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=85&color=0:0F172A,50:1E3A8A,100:0891B2&text=Beyond%20the%20Code&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&text=THE%20MIND%20BEHIND%20THE%20CODE&fontSize=27&fontColor=FFFFFF&color=0:020617,50:1E40AF,100:0891B2&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=650&height=35&lines=Think+in+Algorithms.;Build+with+Intelligence.;Engineer+for+Impact."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=600&color=67E8F9&center=true&vCenter=true&width=700&height=35&lines=Think+in+Algorithms.;Build+with+Intelligence.;Engineer+for+Impact."/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="62%" valign="middle">
+<td width="65%" valign="middle">
 
-### Hey, I'm Barath! 👋
+### 👋 Hello, World! I'm Barath.
 
-I'm a **Computer Science and Engineering student at Chennai Institute of Technology**, passionate about building scalable software, intelligent applications and technology that solves real-world problems.
+Computer Science and Engineering student at **Chennai Institute of Technology**, passionate about software development, intelligent applications and solving real-world engineering problems.
 
-I enjoy combining software engineering, AI/ML and problem-solving to transform complex ideas into practical solutions.
+I enjoy building applications that combine strong software architecture, modern web technologies and AI-powered capabilities.
 
-**What drives me**
+**What I focus on**
 
-- 🎯 Aspiring Software Development Engineer.
-- 💻 Full Stack & Backend Engineering.
-- 🤖 Artificial Intelligence & Agentic AI.
-- 🧠 Data Structures & Competitive Programming.
-- 🏆 National Hackathon Winner.
-- 🚀 Building production-oriented projects.
+- 🎯 Software Development Engineering
+- 💻 Full Stack & Backend Development
+- 🤖 AI / Machine Learning / Agentic AI
+- 🧠 Data Structures & Algorithms
+- 🌐 Scalable Application Development
+- 🚀 Building practical engineering projects
 
-**My philosophy**
-
-> Don't just write code. Engineer solutions that matter.
+> My philosophy: Don't just write code. Engineer solutions.
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br/><br/>
 
@@ -85,25 +83,25 @@ I enjoy combining software engineering, AI/ML and problem-solving to transform c
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LEETCODE-1000%2B%20SOLVED-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-7C3AED?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-0891B2?style=for-the-badge"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
 <!-- ================= C++ IDENTITY ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:172554,50:312E81,100:6D28D9&text=Developer%20Identity&fontSize=29&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:312E81,100:7C3AED&text=My%20Developer%20Identity&fontSize=28&fontColor=FFFFFF"/>
 
-**A little introduction, written in my favourite language.**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=650&height=30&lines=Life+is+a+continuous+learning+loop.;Code.+Debug.+Optimize.+Repeat."/>
 
 </div>
 
@@ -111,15 +109,11 @@ I enjoy combining software engineering, AI/ML and problem-solving to transform c
 #include <bits/stdc++.h>
 using namespace std;
 
-class Developer {
+class Barath {
 public:
     string name = "Sunkireddy Barath";
     string role = "Aspiring SDE";
-    string passion = "Building Intelligent Solutions";
     string college = "Chennai Institute of Technology";
-
-    double cgpa = 8.78;
-    int leetcodeSolved = 1000;
 
     vector<string> interests = {
         "Software Engineering",
@@ -129,110 +123,100 @@ public:
         "Competitive Programming"
     };
 
-    void dailyRoutine() {
+    void build() {
         while (true) {
             learn();
             solveProblems();
-            buildProjects();
-            innovate();
-            improve();
+            developProjects();
+            improveSkills();
         }
-    }
-
-    void introduce() {
-        cout << "Hello, World!" << endl;
-        cout << name << endl;
-        cout << "Always Building. Always Learning." << endl;
     }
 };
 
 int main() {
-    Developer barath;
-    barath.introduce();
-    barath.dailyRoutine();
+    Barath developer;
+
+    cout << "Hello, World!" << endl;
+    cout << developer.name << endl;
+
+    developer.build();
 
     return 0;
 }
 ```
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/COMMITMENT-100%25-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MINDSET-NEVER%20STOP%20LEARNING-7C3AED?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-<!-- ================= TECHNOLOGIES ================= -->
+<!-- ================= TECH STACK ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:164E63,100:2563EB&text=My%20Technology%20Universe&fontSize=29&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&text=TECHNOLOGY%20%7C%20TOOLS%20%7C%20ENGINEERING&fontSize=26&fontColor=FFFFFF&color=0:020617,50:164E63,100:2563EB"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=600&height=30&lines=One+mind.+Multiple+technologies.;From+Frontend+to+AI+Engineering.;Learning+Today.+Engineering+Tomorrow."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2300&pause=600&color=67E8F9&center=true&vCenter=true&width=650&height=30&lines=One+mind.+Multiple+technologies.;From+Frontend+to+Backend+to+AI.;Learning.+Building.+Engineering."/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
 
-### 💻 PROGRAMMING
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DSA-Algorithms-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-Programming-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0891B2?style=flat-square"/>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-### 🎨 FRONTEND
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,bootstrap,tailwind&theme=dark"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Responsive-UI-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Modern-Web-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX-7C3AED?style=flat-square"/>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" align="center" valign="middle">
 
-### ⚙️ BACKEND
+### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/REST-APIs-16A34A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Architecture-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authentication-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-7C3AED?style=flat-square"/>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-### 🗄️ DATABASE
+### 🗄️ Database & Storage
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase&theme=dark"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL-Database-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/NoSQL-Database-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/NoSQL-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database%20Design-7C3AED?style=flat-square"/>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" align="center" valign="middle">
 
-### 🤖 AI / MACHINE LEARNING
+### 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
 
@@ -246,14 +230,15 @@ int main() {
 </td>
 <td width="50%" align="center" valign="middle">
 
-### ☁️ CLOUD & DEVOPS
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github&theme=dark"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud-Engineering-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square"/>
 
 </td>
 </tr>
@@ -261,107 +246,121 @@ int main() {
 
 <div align="center">
 
-### 🧰 Engineering Toolbox
+### 🧰 Developer Toolbox
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,canva,githubactions&theme=dark"/>
 
 </div>
 
-<br/>
+---
 
 <!-- ================= PROJECTS ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,40:1E40AF,100:7C3AED&text=Things%20I've%20Engineered&fontSize=30&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&text=ENGINEERING%20%7C%20MY%20PROJECTS&fontSize=28&fontColor=FFFFFF&color=0:020617,40:1E40AF,100:7C3AED"/>
 
-**Five projects. Five engineering challenges. One goal: real-world impact.**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=650&height=30&lines=Ideas+into+Applications.;Applications+into+Impact.;Building+Beyond+Boundaries."/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-COMPUTER%20VISION-0EA5E9?style=for-the-badge"/>
-
-### 🚘 UrbanTrace AI
-
-**ANPR Tracking & City Traffic Analytics**
-
-</div>
-
-- YOLO11m + ByteTrack vehicle detection and tracking.
-- 92.2% character accuracy.
-- 18.2 FPS per camera.
-- Cross-camera trajectory reconstruction.
-- Reduced duplicate tracker IDs from 110 to 28 vehicles.
-
-**Built with**
-
-`Python` `YOLO11m` `ByteTrack` `ONNX` `OpenCV` `FastAPI` `PostGIS`
-
-<div align="center">
-<img src="https://img.shields.io/badge/ENGINEERING-COMPUTER%20VISION-0891B2?style=flat-square"/>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/02-AGRICULTURAL%20AI-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT%2001-AGRICULTURAL%20AI-16A34A?style=for-the-badge"/>
 
 ### 🌱 AgriSmart
 
-**AI-Powered Smart Agriculture Platform**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SMART%20AGRICULTURE&fontSize=21&fontColor=FFFFFF&color=0:052E16,100:16A34A"/>
 
 </div>
 
-- XGBoost crop and yield prediction.
-- 93% accuracy across 22 crops.
-- Yield model R² 0.91 and MAE 1.51 t/ha.
-- Disease and pest classification.
-- 98.1% unseen accuracy.
+An AI-powered agriculture ecosystem designed to support farmers with intelligent agricultural insights.
 
-**Built with**
+**Features**
+- Crop recommendation and yield prediction.
+- Plant disease and pest prediction.
+- Fertilizer and crop rotation assistance.
+- Weather and market price analysis.
+- AI agricultural assistant.
 
-`React Native` `FastAPI` `XGBoost` `MobileNetV3` `ONNX`
+**Technology Stack**
+
+`React Native` `TypeScript` `Python` `XGBoost` `Machine Learning` `FastAPI` `Supabase`
 
 <div align="center">
-<img src="https://img.shields.io/badge/ENGINEERING-AGRICULTURAL%20AI-16A34A?style=flat-square"/>
+<a href="https://github.com/sunkireddy-Barath/AgriSmart">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT%2002-SECURE%20COMPUTING-EF4444?style=for-the-badge"/>
+
+### 🔐 Secure CP
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SECURE%20CONTEST%20ENVIRONMENT&fontSize=17&fontColor=FFFFFF&color=0:450A0A,100:DC2626"/>
+
+</div>
+
+A secure competitive programming environment inspired by Safe Exam Browser.
+
+**Features**
+- Kiosk-style fullscreen environment.
+- Restricted navigation and shortcuts.
+- Application and monitoring controls.
+- Warning and violation tracking.
+- Contest dashboard and submissions.
+
+**Technology Stack**
+
+`React` `Vite` `Electron` `JavaScript` `CSS` `Node.js`
+
+<div align="center">
+<a href="https://github.com/sunkireddy-Barath">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03-CLOUD%20INTELLIGENCE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT%2003-ATTENDANCE%20AUTOMATION-2563EB?style=for-the-badge"/>
 
-### 🛡️ SentinelOps AI
+### 📋 Exam Staff Attendance
 
-**Cloud Incident Detection & Recovery**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SMART%20ATTENDANCE&fontSize=22&fontColor=FFFFFF&color=0:172554,100:2563EB"/>
 
 </div>
 
-- 8-cause root-cause detection engine.
-- Read-only falsification tests.
-- 99% correct cause identification across 20 benchmark seeds.
-- Recovery contracts and SLO verification.
-- Reduced false recovery claims from 72% to 0%.
+A QR-based attendance management platform for examination staff.
 
-**Built with**
+**Features**
+- QR-based staff check-in.
+- Daily staff assignment matching.
+- Admin dashboard and attendance tracking.
+- Hall allocation and replacement management.
+- Attendance status monitoring.
 
-`FastAPI` `PostgreSQL` `Scikit-learn` `Next.js` `Docker` `Render` `Neon`
+**Technology Stack**
+
+`Next.js` `React` `Node.js` `Express.js` `Supabase` `JavaScript`
 
 <div align="center">
-<img src="https://img.shields.io/badge/ENGINEERING-CLOUD%20AI-7C3AED?style=flat-square"/>
+<a href="https://github.com/sunkireddy-Barath">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 </div>
 
 </td>
@@ -369,183 +368,137 @@ int main() {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/04-CYBERSECURITY-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT%2004-ANGULAR%20APPLICATION-DC2626?style=for-the-badge"/>
 
-### 🔐 Contexta
+### 📝 OD Generator
 
-**Autonomous AI Threat Intelligence Platform**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SMART%20OD%20MANAGEMENT&fontSize=20&fontColor=FFFFFF&color=0:450A0A,100:DC2626"/>
 
 </div>
 
-- 5 role-specific Gemini agents.
-- SHA-256 hashed evidence packs.
-- 6-factor vulnerability risk score.
-- CVSS, KEV and EPSS integration.
-- Ed25519-signed hash-chain ledger.
+An online-duty request and approval management application.
 
-**Built with**
+**Features**
+- Student and administrator interfaces.
+- OD request submission.
+- Admin approval and rejection.
+- OD letter generation and download.
+- Local data persistence.
 
-`FastAPI` `Next.js` `PostgreSQL` `Gemini` `NetworkX` `Redis`
+**Technology Stack**
+
+`Angular` `TypeScript` `HTML5` `CSS3` `JSON` `LocalStorage`
 
 <div align="center">
-<img src="https://img.shields.io/badge/ENGINEERING-AGENTIC%20AI-EF4444?style=flat-square"/>
+<a href="https://github.com/sunkireddy-Barath">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/05-DEEP%20LEARNING-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT%2005-VOICE%20AI-7C3AED?style=for-the-badge"/>
 
-### 🧠 VERITAS
+### 🎙️ Toucan TTS / VoiceForge
 
-**Verified Evolving Reality & Intelligence Tracking**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=VOICE%20INTELLIGENCE&fontSize=21&fontColor=FFFFFF&color=0:2E1065,100:7C3AED"/>
 
 </div>
 
-- Bitemporal RAG pipeline.
-- BM25-dense fusion and reranking.
-- 1.00 TemporalEvidenceBench score.
-- 14M-parameter transformer trained from scratch.
-- 50/50 audit accuracy and 12/12 refusals.
+An experimental multilingual text-to-speech platform concept.
 
-**Built with**
+**Planned capabilities**
+- Multilingual voice generation.
+- Expressive speech and emotion controls.
+- Voice customization.
+- Interactive demo interface.
 
-`PyTorch` `FastAPI` `RAG` `BM25` `Kafka` `SQLite` `React`
+**Technology Stack**
+
+`Python` `FastAPI` `Gradio` `Google Colab` `Text-to-Speech`
 
 <div align="center">
-<img src="https://img.shields.io/badge/ENGINEERING-LLM%20RESEARCH-0891B2?style=flat-square"/>
+<a href="https://github.com/sunkireddy-Barath">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 </div>
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" valign="middle" align="center">
 
-<div align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="85%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:172554,100:6D28D9&text=What's%20Next%3F&fontSize=25&fontColor=FFFFFF" width="100%"/>
+### More projects coming soon.
 
-<br/>
-
-### ⚡ More Ideas. More Engineering.
-
-Always exploring new possibilities in:
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20INNOVATION-7C3AED?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/FULL%20STACK-2563EB?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/BLOCKCHAIN-0891B2?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-16A34A?style=for-the-badge"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=350&height=60&lines=Explore.;Experiment.;Build.;Innovate."/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ================= EXPERIENCE ================= -->
+<!-- ================= INTERNSHIP ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:0F766E,100:06B6D4&text=Professional%20Journey&fontSize=30&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&text=PROFESSIONAL%20EXPERIENCE&fontSize=28&fontColor=FFFFFF&color=0:020617,50:0F766E,100:06B6D4"/>
 
-*Real-world engineering. Practical experience. Continuous growth.*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=600&height=30&lines=Learning+through+real-world+engineering.;Turning+knowledge+into+practical+skills."/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="18%" valign="middle">
+<td width="20%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/2026-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2025-0891B2?style=for-the-badge"/>
+
+<br/><br/>
 
 💼
 
 </td>
-<td width="82%" valign="middle">
+<td width="80%" valign="middle">
 
-### Bold Analytics
+### KaizenSpark Tech Pvt. Ltd.
 
-**DATA ANALYST INTERN**
+**Full Stack Development Intern**
 
-`May 2026 – July 2026` · Maharashtra, India
+- Developed responsive website interfaces using HTML, CSS and JavaScript.
+- Worked on the company's website UI.
+- Implemented a contact form using Node.js and Express.js.
+- Integrated MongoDB to store contact form submissions.
+- Practiced frontend and backend integration.
 
-- Normalized and deduplicated 600K+ government records into a 3NF PostgreSQL schema.
-- Built a 12-year financial model covering 100% of Nifty 100 companies.
-- Developed Power BI dashboards and feature engineering workflows.
+**Technology Stack**
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/2026-7C3AED?style=for-the-badge"/>
-
-💻
-
-</td>
-<td valign="middle">
-
-### L2M Labs
-
-**SOFTWARE ENGINEER INTERN**
-
-`January 2026 – March 2026` · Chennai, India
-
-- Designed a concurrency-safe registration backend.
-- Implemented transaction locking and row-level checks across 10+ academic departments.
-- Built REST API integrations and department-wise data management features.
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/2025-16A34A?style=for-the-badge"/>
-
-🌐
-
-</td>
-<td valign="middle">
-
-### KaizenSpark Tech
-
-**FULL STACK DEVELOPMENT INTERN**
-
-`June 2025 – July 2025` · Chennai, India
-
-- Built responsive frontend interfaces.
-- Successfully launched the company's official website.
-- Improved deployment reliability through Git workflows, debugging and staged releases.
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb&theme=dark"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
 <!-- ================= ACHIEVEMENTS ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=95&color=0:451A03,45:B45309,100:F59E0B&text=Hall%20of%20Achievements&fontSize=30&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&text=ACHIEVEMENTS%20%26%20MILESTONES&fontSize=27&fontColor=FFFFFF&color=0:451A03,50:B45309,100:F59E0B"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2300&pause=700&color=FBBF24&center=true&vCenter=true&width=650&height=35&lines=Compete+with+passion.;Build+with+purpose.;Celebrate+every+milestone."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=600&color=FBBF24&center=true&vCenter=true&width=650&height=30&lines=Every+challenge+is+an+opportunity.;Every+milestone+is+a+new+beginning."/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://img.shields.io/badge/01-WINNER-F59E0B?style=for-the-badge"/>
 
@@ -553,136 +506,167 @@ Always exploring new possibilities in:
 
 # 🥇
 
-### QIE International Blockchain Hackathon '26
+### National Hackathon Winner
 
-**WINNER**
-
-**$2,500 USD Prize**
-
-Built NeuroCred
-
-<sub>January 2026</sub>
+Recognizing innovation, teamwork and engineering problem-solving.
 
 </td>
-<td align="center" width="50%" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/02-RUNNER%20UP-94A3B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-CODING-2563EB?style=for-the-badge"/>
 
 <br/><br/>
 
-# 🥈
+# 💻
 
-### BeachHack National Hackathon '26
+### 1000+ LeetCode Problems
 
-**2ND RUNNER-UP**
-
-**₹20,000 Prize**
-
-Built Contexta
-
-<sub>Christ University · February 2026</sub>
+Consistent algorithmic practice and competitive programming.
 
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/03-WINNER-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-EDUCATION-0891B2?style=for-the-badge"/>
 
 <br/><br/>
 
-# 🏆
+# 🎓
 
-### Cardano Hackathon Asia – IBW Edition '25
+### 8.78 / 10 CGPA
 
-**WINNER**
-
-**$2,000 USD Prize**
-
-Built Lendora AI
-
-<sub>5,000+ participating teams · November 2025</sub>
+Chennai Institute of Technology.
 
 </td>
-<td align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/04-FINALIST-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-CONTINUOUS%20GROWTH-7C3AED?style=for-the-badge"/>
 
 <br/><br/>
 
 # 🚀
 
-### Hack Karnataka (GDG) '25
+### Always Building
 
-**FINALIST**
-
-Top 2 track ranking among 3,000+ teams
-
-Built AgriSmart AI
-
-<sub>November 2025</sub>
+Projects, technical exploration and engineering practice.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ================= CODING ================= -->
+<!-- ================= COMPETITIVE PROGRAMMING ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:1D4ED8,100:0891B2&text=Competitive%20Programming&fontSize=29&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&text=COMPETITIVE%20PROGRAMMING&fontSize=29&fontColor=FFFFFF&color=0:020617,40:1D4ED8,100:0891B2"/>
 
-**Solving problems. Strengthening logic. Improving every day.**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=600&color=67E8F9&center=true&vCenter=true&width=650&height=30&lines=Think+fast.+Code+smart.;Strengthening+logic+one+problem+at+a+time."/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="33.33%" align="center" valign="middle">
 
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<br/><br/>
 
 # 1000+
 
 **Problems Solved**
 
-<sub>Max Rating: 1815</sub>
+---
 
-<sub>Top 10%</sub>
+**Max Rating: 1815**
 
-<a href="https://leetcode.com/u/barath80/">View Profile ↗</a>
+**Top 10%**
+
+<br/>
+
+<a href="https://leetcode.com/u/barath80/">
+<img src="https://img.shields.io/badge/VIEW%20PROFILE-2563EB?style=for-the-badge"/>
+</a>
 
 </td>
-<td align="center" width="33%">
+<td width="33.33%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/CODECHEF-795548?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CODECHEF-795548?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+<br/><br/>
 
 # 222+
 
 **Problems Solved**
 
-<sub>Max Rating: 1183</sub>
+---
 
-<sub>Bronze & Gold Badges</sub>
+**Max Rating: 1183**
 
-<a href="https://www.codechef.com/users/barath80">View Profile ↗</a>
+**Competitive Programming**
+
+<br/>
+
+<a href="https://www.codechef.com/users/barath80">
+<img src="https://img.shields.io/badge/VIEW%20PROFILE-795548?style=for-the-badge"/>
+</a>
 
 </td>
-<td align="center" width="33%">
+<td width="33.33%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<br/><br/>
 
 # 706
 
 **Max Rating**
 
-<sub>Active Contest Participant</sub>
+---
 
-<sub>Problem Solving</sub>
+**Problem Solving**
 
-<a href="https://codeforces.com/profile/sunkireddybarath07">View Profile ↗</a>
+**Contest Practice**
+
+<br/>
+
+<a href="https://codeforces.com/profile/sunkireddybarath07">
+<img src="https://img.shields.io/badge/VIEW%20PROFILE-1F8ACB?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&text=GITHUB%20ANALYTICS&fontSize=29&fontColor=FFFFFF&color=0:020617,50:312E81,100:7C3AED"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=650&height=30&lines=Consistency+creates+progress.;Every+commit+tells+a+story."/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sunkireddy-Barath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunkireddy-Barath&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+</td>
+<td width="50%" align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=sunkireddy-Barath&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
@@ -690,100 +674,87 @@ Built AgriSmart AI
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:312E81,100:7C3AED&text=GitHub%20Activity%20Dashboard&fontSize=28&fontColor=FFFFFF" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=550&height=30&lines=Every+contribution+builds+the+journey.;Consistency+is+the+real+superpower."/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunkireddy-Barath&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ================= 3D GRAPH ================= -->
+<!-- ================= 3D CONTRIBUTIONS ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:164E63,100:2563EB&text=My%203D%20Contribution%20Universe&fontSize=27&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&text=MY%203D%20CONTRIBUTION%20WORLD&fontSize=26&fontColor=FFFFFF&color=0:020617,50:164E63,100:2563EB"/>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=550&height=30&lines=Building+consistency+every+day."/>
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/sunkireddy-Barath/sunkireddy-Barath/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </div>
 
-<br/>
+---
 
 <!-- ================= EDUCATION ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=85&color=0:172554,50:1E40AF,100:0891B2&text=Academic%20Foundation&fontSize=29&fontColor=FFFFFF" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&text=ACADEMIC%20FOUNDATION&fontSize=28&fontColor=FFFFFF&color=0:172554,50:1E40AF,100:0891B2"/>
 
 </div>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/CHENNAI%20INSTITUTE%20OF%20TECHNOLOGY-0F172A?style=for-the-badge"/>
+# 🎓
 
-### B.E. Computer Science and Engineering
+</td>
+<td width="75%" valign="middle">
+
+### Chennai Institute of Technology
+
+**B.E. Computer Science and Engineering**
 
 `2024 – 2028`
 
-<br/>
+<img src="https://img.shields.io/badge/CGPA-8.78%2F10-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CGPA-8.78%20%2F%2010-2563EB?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
-</div>
-
-<br/>
+---
 
 <!-- ================= CONNECT ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,40:172554,75:1D4ED8,100:7C3AED&text=Let's%20Build%20Something%20Amazing&fontSize=30&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=31&fontColor=FFFFFF&color=0:020617,40:172554,75:1D4ED8,100:7C3AED&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=Open+to+Collaborations;Open+to+Engineering+Opportunities;Let's+Create+Something+Impactful."/>
-
-<br/><br/>
-
-<a href="mailto:sunkireddybarath07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=600&color=67E8F9&center=true&vCenter=true&width=650&height=40&lines=Open+to+Collaborations;Open+to+Software+Engineering+Opportunities;Let's+Create+Something+Impactful."/>
 
 <br/><br/>
 
-### CODE. CREATE. INNOVATE. REPEAT.
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=120&section=footer"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sunkireddy-Barath">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### CODE • CREATE • INNOVATE • REPEAT
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=130&section=footer"/>
 
 </div>
 
-<!-- =============== END =============== -->
+<!-- ================= END ================= -->
