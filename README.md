@@ -203,12 +203,13 @@ Focus:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY." alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
-
+</div>
 
 <!-- ═══════════════ 02 · INTERNSHIPS ═══════════════ -->
 <h1 align="center">💼 Experience</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Three+internships+%C2%B7+real+users+%C2%B7+production+code" alt="Three internships · real users · production code"/></div><!-- 3 internships: two side by side, the third centered below -->
@@ -384,7 +385,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 
 
 <!-- ═══════════════ 04 · TECH STACK ═══════════════ -->
-<h1 align="center"> Tech Stack</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Everything+I+use+to+design%2C+build+and+ship" alt="Everything I use to design, build and ship"/></div><table align="center">
+<h1 align="center">🛠️ Tech Stack</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Everything+I+use+to+design%2C+build+and+ship" alt="Everything I use to design, build and ship"/></div><table align="center">
 <tr>
 <td align="center" width="22%"><b>💻 Languages</b></td>
 <td align="center">
@@ -559,9 +560,10 @@ Built <b>Lendora AI</b>, a DeFi platform
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 <br/>
 
-<h1 align="center">🤝 Let's Connect</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
+<h1 align="center">🤝 Let's Connect</h1>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
 Open to software engineering internships, open-source collaboration, and building products with curious teams.
-
+</div>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
