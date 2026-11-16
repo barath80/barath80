@@ -466,7 +466,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 
 <!-- ═══════════════ 05 · ACHIEVEMENTS ═══════════════ -->
 <h1 align="center">🏆 Achievements & Prizes</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=4+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="4 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
-<img src="https://img.shields.io/badge/Hackathon%20wins-2-F5C45E?style=for-the-badge&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Hackathon%20wins-4-F5C45E?style=for-the-badge&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Prize%20money-%244%2C500%20%2B%20%E2%82%B920%2C000-4F8CFF?style=for-the-badge&labelColor=10172A"/></div><!-- 4 achievements: two columns, two rows -->
 <table align="center">
 <tr>
