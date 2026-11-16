@@ -48,11 +48,7 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 </table></div>
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
 <br/>
-</td></tr>
-</table>
 <!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
 
 <!-- C++ CODE BOX: INTRODUCTION -->
@@ -183,8 +179,11 @@ Focus:
 
 <br/>
 <h1 align="center">🎓 Education</h1>
+<table align="center">
 <tr>
-<td align="center"><h2> Chennai Institute of Technology</h2>
+<td align="center">
+
+<h3>🏫 Chennai Institute of Technology</h3>
 <b>B.E. Computer Science and Engineering</b><br/>
 <sub>Chennai, Tamil Nadu · 2024 – 2028</sub>
 <br/><br/>
@@ -192,15 +191,23 @@ Focus:
 <img src="https://img.shields.io/badge/Year-3rd-9875FF?style=for-the-badge&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Graduating-2028-38D9E6?style=for-the-badge&labelColor=10172A"/>
 <br/><br/>
-<b>Core coursework:</b> Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOPs · System Design</td>
+<b>Core coursework:</b> Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOPs · System Design
+
+</td>
 </tr>
-</table><div align="center"><br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
-<br/>
-</td></tr>
 </table>
+
+<div align="center">
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/>
+
+<h3 align="center"><i>❝ Knowing is not enough; we must apply. ❞</i></h3>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/>
 
 
 <!-- ═══════════════ 02 · INTERNSHIPS ═══════════════ -->
@@ -259,11 +266,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 </tr>
 </table><div align="center"><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
 <br/>
-</td></tr>
-</table>
 
 <br/>
 <!-- ═══════════════ 03 · PROJECTS ═══════════════ -->
@@ -377,11 +380,6 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 </tr>
 </table><div align="center"><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
-<br/>
-</td></tr>
-</table>
 <br/>
 
 
@@ -461,11 +459,6 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 </tr>
 </table><div align="center"><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
-<br/>
-</td></tr>
-</table>
 <br/>
 
 
@@ -517,7 +510,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
-,br/>
+<br/>
 
 <!-- ═══════════════ 06 · COMPETITIVE PROGRAMMING ═══════════════ -->
 <h1 align="center">⚡ Competitive Programming</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=1000++problems+%C2%B7+500++day+streak+%C2%B7+C+++throughout" alt="1000+ problems · 500+ day streak · C++ throughout"/>
@@ -559,7 +552,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 </tr>
 </table><div align="center"><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
+<br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
 <br/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Alone%20we%20can%20do%20so%20little%3B%20together%20we%20can%20do%20so%20much.%20%E2%9D%9E;%E2%80%94%20Helen%20Keller" alt="❝ Alone we can do so little; together we can do so much. ❞ "/>
 <br/>
@@ -576,5 +569,5 @@ Open to software engineering internships, open-source collaboration, and buildin
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
+
 ```
