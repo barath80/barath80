@@ -45,11 +45,6 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=600&color=38D9E6&multiline=true&repeat=true&width=340&height=230&lines=%24+whoami;barath+%E2%80%94+software+engineer;%24+cat+focus.txt;gen+ai+%C2%B7+agentic+ai+%C2%B7+full+stack;%24+cat+stack.txt;c%2B%2B+%C2%B7+python+%C2%B7+typescript;%24+echo+%24MISSION;solve+real+problems%2C+ship+real+products" alt="Terminal: whoami, focus, stack, mission"/></td>
 </tr>
 </table><div align="center"><table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=58&lines=%22I%20don%27t%20just%20write%20code.%20I%20build%20systems%2C%20solve%20problems%2C%20and%20turn%20ideas%20into%20products.%22" alt="&quot;I don't just write code. I build systems, solve problems, and turn ideas into products.&quot;"/>
-<br/>
-</td></tr>
 </table></div>
 <br/>
 <!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
@@ -181,9 +176,9 @@ Focus:
 
 
 <br/>
-<h1 align="center">🎓 Education</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Where+the+foundations+were+built" alt="Where the foundations were built"/></div><table align="center">
+<h1 align="center">🎓 Education</h1>
 <tr>
-<td align="center"><h3>🏫 Chennai Institute of Technology</h3>
+<td align="center"><h2> Chennai Institute of Technology</h2>
 <b>B.E. Computer Science and Engineering</b><br/>
 <sub>Chennai, Tamil Nadu · 2024 – 2028</sub>
 <br/><br/>
