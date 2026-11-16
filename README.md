@@ -205,7 +205,7 @@ Focus:
 </br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY." alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY." alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
@@ -556,7 +556,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=ALONE+WE+CAN+DO+SO+LITTLE%3B+TOGETHER+WE+CAN+DO+SO+MUCH." alt="ALONE WE CAN DO SO LITTLE; TOGETHER WE CAN DO SO MUCH."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=ALONE+WE+CAN+DO+SO+LITTLE%3B+TOGETHER+WE+CAN+DO+SO+MUCH." alt="ALONE WE CAN DO SO LITTLE; TOGETHER WE CAN DO SO MUCH."/>
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 <br/>
