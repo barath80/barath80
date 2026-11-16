@@ -175,7 +175,9 @@ Focus:
 </td>
 </tr>
 </table>
-
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/>
 
 <br/>
 <h1 align="center">🎓 Education</h1>
@@ -517,6 +519,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 
 
 <!-- Live LeetCode card: solved count and daily-activity heatmap stay current automatically -->
+<div align="center">
 <a href="https://leetcode.com/u/barath80/">
 <img src="https://leetcard.jacoblin.cool/barath80?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" width="520" alt="LeetCode stats and activity heatmap"/>
 </a></div><!-- 3 platforms: two side by side, the third centered below -->
