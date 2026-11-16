@@ -1,67 +1,85 @@
+```
 <!--
   GITHUB PROFILE README — SUNKIREDDY BARATH
-  Repo name must be exactly your username: barath80/barath80
-  Search this file for REPLACE to find every link you need to edit.
-  Palette: #4F8CFF blue · #9875FF violet · #38D9E6 cyan · #8993A8 gray · #10172A navy
+  Repo: barath80/barath80  ·  File: README.md
+  Palette: #4F8CFF blue · #9875FF violet · #38D9E6 cyan · #F5C45E gold · #8993A8 gray · #10172A navy
+  Layout rule: pairs sit in two columns; an odd item out is centered on its own row.
+  Profile photo: uses your GitHub avatar. To use a different photo,
+  upload it to this repo (e.g. assets/me.jpg) and swap the src= of the photo in the About section.
 -->
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=40&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=800&height=70&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/>
 
-<!-- Ticker: edit the lines after lines= (separate with ; and use + for spaces) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer, Gen AI and Agentic AI Engineer"/>
-
-<br/>
-
-<a href="https://github.com/barath80">GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> &nbsp;·&nbsp; <!-- REPLACE -->
-<a href="mailto:sunkireddybarath07@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://leetcode.com/barath80">LeetCode</a> &nbsp;·&nbsp;
-<a href="https://YOUR-PORTFOLIO-URL">Portfolio</a> <!-- REPLACE or delete -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+<a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/barath80/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/>
 
-<i>"The best way to predict the future is to invent it."</i> — Alan Kay
+<img src="https://komarev.com/ghpvc/?username=barath80&label=Profile%20views&color=4F8CFF&style=flat-square&abbreviated=true" alt="Profile views"/>
+
+<br/><br/>
+
+<h3 align="center"><i>❝ The best way to predict the future is to invent it. ❞</i></h3>
+<p align="center"><b>— Alan Kay</b></p>
 
 <br/><br/>
 
 <!-- ═══════════════ 01 · ABOUT ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=420&height=50&lines=About+Me" alt="About Me"/>
+<h1 align="center">👨‍💻 About Me</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=A+quick+look+at+who+I+am+and+what+I+build" alt="A quick look at who I am and what I build"/>
 
 </div>
 
-<!-- LEFT: my story and details · RIGHT: animated terminal -->
-<table width="100%">
+<!-- LEFT: story and details · RIGHT: photo, then terminal typing line by line -->
+<table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
 
-<h3>Hi, I'm Barath.</h3>
+<h3 align="center">Hi, I'm Barath 👋</h3>
 
-I'm a third-year Computer Science student who builds software that solves real problems, from the data model to the API to the deployed product.
+<p align="center">
+A third-year Computer Science student who builds software that solves real problems, from the data model to the API to the deployed product.
+</p>
 
-I've normalized <b>600K+ records</b> into a production API, tracked vehicles across cameras at <b>18 fps</b>, and won hackathons building on Cardano and QIE. I'm focused on generative and agentic AI systems, distributed systems and cloud.
+<p align="center">
+I've normalized <b>600K+ records</b> into a production API, tracked vehicles across cameras at <b>18.2 fps</b>, built <b>multi-agent Gemini</b> systems and <b>bitemporal RAG</b>, and won <b>2 hackathons</b> with <b>$4,500</b> in prizes.
+</p>
 
-<img src="https://img.shields.io/badge/Studying-B.E.%20CSE-4F8CFF?style=flat-square&labelColor=10172A"/>
-<img src="https://img.shields.io/badge/Graduating-July%202028-9875FF?style=flat-square&labelColor=10172A"/>
-<img src="https://img.shields.io/badge/CGPA-8.78-38D9E6?style=flat-square&labelColor=10172A"/>
-<img src="https://img.shields.io/badge/Main%20language-C%2B%2B-4F8CFF?style=flat-square&labelColor=10172A"/>
+<table align="center">
+<tr><td>🎓</td><td><b>College</b></td><td>Chennai Institute of Technology, Chennai</td></tr>
+<tr><td>📘</td><td><b>Degree</b></td><td>B.E. Computer Science and Engineering</td></tr>
+<tr><td>🗓️</td><td><b>Batch</b></td><td>2024 – 2028</td></tr>
+<tr><td>⭐</td><td><b>CGPA</b></td><td>8.78 / 10</td></tr>
+<tr><td>📍</td><td><b>Location</b></td><td>Chennai, Tamil Nadu</td></tr>
+<tr><td>🧠</td><td><b>Focus</b></td><td>Gen AI · Agentic AI · Full stack · Cloud</td></tr>
+</table>
 
-<br/><br/>
-
-<b>College</b> &nbsp; Chennai Institute of Technology, Chennai<br/>
-<b>Interests</b> &nbsp; Full stack · AI & ML · Distributed systems · Cloud · Open source · Competitive programming
+<p align="center">
+<img src="https://img.shields.io/badge/Main%20language-C%2B%2B-4F8CFF?style=flat-square&labelColor=10172A&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Top%2010%25-F5C45E?style=flat-square&labelColor=10172A&logo=leetcode&logoColor=F5C45E"/>
+<img src="https://img.shields.io/badge/Internships-3-38D9E6?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Open%20to-SDE%20internships-9875FF?style=flat-square&labelColor=10172A"/>
+</p>
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" align="center" valign="middle">
 
-<!-- Animated terminal. Edit lines= to change what it types -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=700&color=38D9E6&multiline=true&width=380&height=230&lines=%24+whoami;barath+-+software+engineer;%24+focus+--now;gen+ai+%C2%B7+agentic+ai+%C2%B7+full+stack;%24+stack;c%2B%2B+%C2%B7+python+%C2%B7+typescript;%24+mission;solve+real+problems%2C+ship+real+products" alt="Animated terminal introduction"/>
+<img src="https://github.com/barath80.png?size=400" width="190" alt="Sunkireddy Barath"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=600&color=38D9E6&multiline=true&repeat=true&width=340&height=230&lines=%24+whoami;barath+%E2%80%94+software+engineer;%24+cat+focus.txt;gen+ai+%C2%B7+agentic+ai+%C2%B7+full+stack;%24+cat+stack.txt;c%2B%2B+%C2%B7+python+%C2%B7+typescript;%24+echo+%24MISSION;solve+real+problems%2C+ship+real+products" alt="Terminal: whoami, focus, stack, mission"/>
 
 </td>
 </tr>
@@ -69,16 +87,16 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 
 <div align="center">
 
-<i>"I don't just write code. I build systems, solve problems, and turn ideas into products."</i>
+<h3 align="center"><i>"I don't just write code. I build systems, solve problems, and turn ideas into products."</i></h3>
 
 </div>
 
 <br/>
 
-<!-- C++ code box: title bar, code and output share ONE table so widths always match -->
-<table width="100%">
+<!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
+<table align="center">
 <tr>
-<td>🔴 🟡 🟢 &nbsp;&nbsp; <b>intro.cpp</b> &nbsp; <sub>C++17</sub></td>
+<td align="center">🔴 🟡 🟢 &nbsp;&nbsp; <b>intro.cpp</b> &nbsp; <sub>C++17</sub></td>
 </tr>
 <tr>
 <td>
@@ -94,13 +112,14 @@ struct Engineer {
     string college = "Chennai Institute of Technology";
     string degree  = "B.E. Computer Science and Engineering";
     string batch   = "2024 - 2028";
+    double cgpa    = 8.78;
     string motto   = "Build systems. Solve problems. Ship ideas.";
 
     vector<string> stack = {
-        "C++", "Java", "Python", "JavaScript", "TypeScript"
+        "C++", "Python", "Java", "JavaScript", "TypeScript"
     };
     vector<string> focus = {
-        "Full stack", "Distributed systems", "Cloud", "Open source"
+        "Gen AI & Agentic AI", "Full stack", "Distributed systems", "Cloud"
     };
 };
 
@@ -109,7 +128,7 @@ int main() {
 
     cout << "Hello, World!\n";
     cout << me.name << " | " << me.degree << "\n";
-    cout << me.college << ", batch of " << me.batch << "\n\n";
+    cout << me.college << " | " << me.batch << " | CGPA " << me.cgpa << "\n\n";
 
     cout << "Stack:\n";
     for (const auto& s : me.stack) cout << "  > " << s << "\n";
@@ -125,7 +144,7 @@ int main() {
 </td>
 </tr>
 <tr>
-<td><b>Terminal</b> &nbsp; <sub>./intro</sub></td>
+<td align="center"><b>Terminal</b> &nbsp; <sub>$ g++ -std=c++17 intro.cpp -o intro && ./intro</sub></td>
 </tr>
 <tr>
 <td>
@@ -133,20 +152,20 @@ int main() {
 ```text
 Hello, World!
 Sunkireddy Barath | B.E. Computer Science and Engineering
-Chennai Institute of Technology, batch of 2024 - 2028
+Chennai Institute of Technology | 2024 - 2028 | CGPA 8.78
 
 Stack:
   > C++
-  > Java
   > Python
+  > Java
   > JavaScript
   > TypeScript
 
 Focus:
+  > Gen AI & Agentic AI
   > Full stack
   > Distributed systems
   > Cloud
-  > Open source
 
 "Build systems. Solve problems. Ship ideas."
 ```
@@ -158,63 +177,119 @@ Focus:
 <div align="center">
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<i>"Make it work, make it right, make it fast."</i> — Kent Beck
+<h3 align="center"><i>❝ The beautiful thing about learning is that nobody can take it away from you. ❞</i></h3>
+<p align="center"><b>— B.B. King</b></p>
+
+<br/>
+
+<h1 align="center">🎓 Education</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Where+the+foundations+were+built" alt="Where the foundations were built"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<h3>🏫 Chennai Institute of Technology</h3>
+<b>B.E. Computer Science and Engineering</b><br/>
+<sub>Chennai, Tamil Nadu · 2024 – 2028</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/CGPA-8.78%20%2F%2010-4F8CFF?style=for-the-badge&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Year-3rd-9875FF?style=for-the-badge&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Graduating-2028-38D9E6?style=for-the-badge&labelColor=10172A"/>
+<br/><br/>
+<b>Core coursework:</b> Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOPs · System Design
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/>
+
+<h3 align="center"><i>❝ Knowing is not enough; we must apply. ❞</i></h3>
+<p align="center"><b>— Johann Wolfgang von Goethe</b></p>
 
 <br/><br/>
 
 <!-- ═══════════════ 02 · INTERNSHIPS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2200&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=420&height=50&lines=Internships" alt="Internships"/>
+<h1 align="center">💼 Experience</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Three+internships+%C2%B7+real+users+%C2%B7+production+code" alt="Three internships · real users · production code"/>
 
 </div>
 
-<table width="100%">
+<!-- 3 internships: two side by side, the third centered below -->
+<table align="center">
 <tr>
-<th align="left" width="24%">Company & role</th>
-<th align="left" width="46%">What I solved</th>
-<th align="left" width="30%">Tech stack</th>
-</tr>
-<tr>
-<td valign="top">
-<b>Bold Analytics</b><br/>
-Software Engineering Intern<br/>
-<sub>May – Jul 2026 · Maharashtra</sub>
+<td width="50%" align="center" valign="top">
+
+<h3>🏢 Bold Analytics</h3>
+<b>Data Analyst Intern</b><br/>
+<sub>May – Jul 2026 · Maharashtra, India</sub>
+<br/><br/>
+Government village data was large and duplicated. I normalized and deduplicated <b>600K+ records</b> into a clean <b>3NF PostgreSQL</b> schema, served through a secure, scalable REST API (All India Villages API, SaaS).
+<br/><br/>
+I also built a <b>12-year financial model</b> covering <b>100% of Nifty 100</b> companies, combining feature engineering with <b>Power BI</b> dashboards.
+<br/><br/>
+<img src="https://img.shields.io/badge/Records-600K%2B-4F8CFF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Schema-3NF-9875FF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Nifty%20100-12%20years-38D9E6?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,react,vite,redis,vercel&perline=8" height="36" alt="Node.js, Express, PostgreSQL, Prisma, React, Vite, Redis, Vercel"/>
+<br/>
+<sub>NeonDB · Upstash Redis · JWT · Power BI</sub>
+<br/><br/>
+<a href="https://drive.google.com/file/d/181wUlXtExTLguwC7ykhJnLS1xXa1gRNU/view?usp=sharing"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
+
 </td>
-<td valign="top">
-Government village data was large and duplicated. I normalized <b>600K+ records</b> into a clean <b>3NF PostgreSQL</b> schema and served it through a secure REST API (All India Villages API, SaaS). I also built a <b>12-year financial model</b> covering <b>100% of Nifty 100</b> with Power BI dashboards.
-</td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,react,vite,redis,vercel&perline=4" alt="Node.js, Express, PostgreSQL, Prisma, React, Vite, Redis, Vercel"/><br/>
-<sub>NeonDB · Upstash Redis · JWT</sub>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>L2M Labs</b><br/>
-Software Engineer Intern<br/>
-<sub>Jan – Mar 2026 · Chennai</sub>
-</td>
-<td valign="top">
-Student registration across <b>10+ departments</b> had to stay correct under heavy simultaneous use. I built a <b>concurrency-safe backend</b> with transaction locking and row-level checks, plus REST integrations and department-wise data management.
-</td>
-<td valign="top">
+<td width="50%" align="center" valign="top">
+
+<h3>🏛️ L2M Labs</h3>
+<b>Software Engineer Intern</b><br/>
+<sub>Jan – Mar 2026 · Chennai, India</sub>
+<br/><br/>
+Student registration across <b>10+ academic departments</b> had to stay correct under heavy simultaneous use. I designed a <b>concurrency-safe registration backend</b> with transaction locking and row-level checks.
+<br/><br/>
+Built <b>REST API integrations</b> and department-wise data management for real-time, high-volume student registration, with a React frontend.
+<br/><br/>
+<img src="https://img.shields.io/badge/Departments-10%2B-4F8CFF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Concurrency-safe-9875FF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Registration-real--time-38D9E6?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,js,py,flask,postgres,git,postman&perline=8" height="36" alt="React, JavaScript, Python, Flask, PostgreSQL, Git, Postman"/>
+<br/>
 <sub>Transaction locking · Row-level checks · REST APIs</sub>
-<!-- REPLACE: add skillicons for the languages/frameworks you used here -->
+<br/><br/>
+<a href="https://drive.google.com/file/d/17gZ2lgIaOJ_8Ni_nesXvFUJlHebAWtWe/view?usp=sharing"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
+
 </td>
 </tr>
 <tr>
-<td valign="top">
-<b>Kaizen Spark</b><br/>
-React / Node.js Development Intern<br/>
-<sub>Jun – Jul 2025 · Chennai</sub>
-</td>
-<td valign="top">
-Built responsive, production-grade frontends and <b>launched the company's official website live</b>. Improved deployment reliability with Git-based workflows, structured debugging and staged releases across sprints.
-</td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=react,nodejs,git&perline=4" alt="React, Node.js, Git"/>
+<td colspan="2" align="center" valign="top">
+
+<h3>🚀 KaizenSpark Tech</h3>
+<b>Full Stack Development Intern</b><br/>
+<sub>Jun – Jul 2025 · Chennai, India</sub>
+<br/><br/>
+Built responsive, production-grade frontend interfaces and <b>launched the company's official website live</b> for public use.<br/>
+Improved deployment reliability with Git-based workflows, structured debugging and staged release management across sprints.
+<br/><br/>
+<img src="https://img.shields.io/badge/Website-launched%20live-4F8CFF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Releases-staged-9875FF?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,git,github&perline=8" height="36" alt="React, Node.js, Express, JavaScript, HTML, CSS, Git, GitHub"/>
+<br/><br/>
+<a href="https://drive.google.com/file/d/19Lo2aT5JkuiMH41_h0GQMruCQGYEeWa2/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
+
 </td>
 </tr>
 </table>
@@ -222,76 +297,147 @@ Built responsive, production-grade frontends and <b>launched the company's offic
 <div align="center">
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
+<h3 align="center"><i>❝ Talk is cheap. Show me the code. ❞</i></h3>
+<p align="center"><b>— Linus Torvalds</b></p>
 
 <br/><br/>
 
 <!-- ═══════════════ 03 · PROJECTS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=420&height=50&lines=Top+5+Projects" alt="Top 5 Projects"/>
+<h1 align="center">🚀 Featured Projects</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+Computer+vision+%C2%B7+Cloud+reliability" alt="Agentic AI · RAG · Computer vision · Cloud reliability"/>
 
 </div>
 
-<table width="100%">
+<!-- 5 projects: 2 + 2 side by side, the fifth centered below -->
+<table align="center">
 <tr>
-<th align="left" width="20%">Project</th>
-<th align="left" width="50%">What it solves, in real words</th>
-<th align="left" width="30%">Tech stack</th>
+<td width="50%" align="center" valign="top">
+
+<h3>🛡️ Contexta</h3>
+<sub><b>Autonomous AI Threat Intelligence Platform</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Multi--agent-9875FF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/LLM-Gemini-4F8CFF?style=flat-square&labelColor=10172A&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeachHack%2726-2nd%20Runner--Up-F5C45E?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<b>Problem:</b> security teams drown in alerts and can't trust a single AI verdict.
+<br/><br/>
+▸ <b>5 role-specific Gemini agents</b> reason over SHA-256 hashed evidence packs<br/>
+▸ <b>Deterministic consensus</b> between agents, streamed live via SSE<br/>
+▸ <b>6-factor BWVS risk score</b> from CVSS, KEV, EPSS and 7-day decay<br/>
+▸ Every verdict sealed in an <b>Ed25519 signed hash-chain ledger</b><br/>
+▸ Attack-graph reasoning with <b>NetworkX</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,postgres,redis,docker&perline=6" height="36" alt="Python, FastAPI, Next.js, PostgreSQL, Redis, Docker"/>
+<br/>
+<sub>Gemini · NetworkX · SSE · Ed25519</sub>
+<br/><br/>
+<a href="https://github.com/barath80/Contexta"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>🔍 VERITAS</h3>
+<sub><b>Verified Evolving Reality & Intelligence Tracking</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/TemporalEvidenceBench-1.00%20vs%200.11-4F8CFF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Audit-50%2F50-9875FF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Refusals-12%2F12-38D9E6?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<b>Problem:</b> facts change, so ordinary retrieval returns answers that were only true once.
+<br/><br/>
+▸ <b>Bitemporal RAG</b> tracks when each piece of evidence was valid<br/>
+▸ <b>BM25 + dense fusion</b> with reranking for retrieval<br/>
+▸ Refuses when it can't back an answer: <b>12/12</b> correct refusals<br/>
+▸ <b>14M-parameter transformer trained from scratch</b><br/>
+▸ RoPE · GQA · SwiGLU · RMSNorm; <b>Kafka</b> event ingestion
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,kafka,sqlite,react&perline=6" height="36" alt="Python, PyTorch, FastAPI, Kafka, SQLite, React"/>
+<br/>
+<sub>RAG · BM25 · Dense retrieval · Reranking · Transformers</sub>
+<br/><br/>
+<a href="https://github.com/barath80/VERITAS"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
 </tr>
 <tr>
-<td valign="top"><b>SentinelOps</b><br/><sub>Cloud incident investigation</sub></td>
-<td valign="top">
-When a cloud system breaks, engineers lose hours guessing why. SentinelOps detects incidents, groups anomalies, tracks evidence and ranks root-cause hypotheses with confidence. Correct cause named <b>99%</b> across 20 benchmark seeds; false recovery claims cut <b>72% → 0%</b>.<br/>
-<a href="https://github.com/barath80?tab=repositories">Repository</a> · <a href="https://YOUR-LIVE-DEMO-URL">Live demo</a> <!-- REPLACE; delete Live demo if none -->
+<td width="50%" align="center" valign="top">
+
+<h3>☁️ SentinelOps AI</h3>
+<sub><b>Cloud Incident Detection & Recovery</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Root%20cause-99%25%20correct-4F8CFF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/False%20recovery-72%25%20%E2%86%92%200%25-9875FF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Benchmark-20%20seeds-38D9E6?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<b>Problem:</b> when a cloud system breaks, engineers lose hours guessing why.
+<br/><br/>
+▸ Detects incidents, groups anomalies and tracks evidence<br/>
+▸ <b>8-cause root-cause engine</b> with read-only falsification tests<br/>
+▸ Ranks hypotheses with confidence; ML anomaly scoring via <b>scikit-learn</b><br/>
+▸ <b>Recovery contracts</b> with rehearsal and SLO verification<br/>
+▸ Deployed on <b>Render, Vercel and Neon</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,nextjs,postgres,docker,vercel&perline=7" height="36" alt="Python, FastAPI, Scikit-learn, Next.js, PostgreSQL, Docker, Vercel"/>
+<br/>
+<sub>Render · Neon · SLO verification</sub>
+<br/><br/>
+<a href="https://github.com/barath80/SentinelOps-AI"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=react,ts,py,fastapi,postgres,redis,docker,prometheus,grafana&perline=5" alt="React, TypeScript, Python, FastAPI, PostgreSQL, Redis, Docker, Prometheus, Grafana"/>
-<img src="https://cdn.simpleicons.org/opentelemetry/4F8CFF" height="30" alt="OpenTelemetry"/>
+<td width="50%" align="center" valign="top">
+
+<h3>🚦 UrbanTrace AI</h3>
+<sub><b>ANPR Tracking & City Traffic Analytics</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/OCR%20accuracy-92.2%25-4F8CFF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Speed-18.2%20fps%2Fcamera-9875FF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Dedupe-110%20%E2%86%92%2028-38D9E6?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<b>Problem:</b> one vehicle seen by many cameras gets counted many times.
+<br/><br/>
+▸ <b>YOLO11m + ByteTrack + CCT-OCR</b> pipeline on ONNX Runtime<br/>
+▸ Reads number plates at <b>92.2%</b> character accuracy, <b>18.2 fps</b> per camera<br/>
+▸ Reconstructs cross-camera trajectories with <b>PostGIS</b><br/>
+▸ <b>GraphHopper</b> routing to validate vehicle paths<br/>
+▸ <b>110 tracker IDs resolved into 28 real vehicles</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,opencv,fastapi,postgres&perline=6" height="36" alt="Python, OpenCV, FastAPI, PostgreSQL"/>
+<br/>
+<sub>YOLO11m · ByteTrack · ONNX Runtime · PostGIS · GraphHopper</sub>
+<br/><br/>
+<a href="https://github.com/barath80/UrbanTrace-AI"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Veritas AI</b><br/><sub>Evolving-facts retrieval</sub></td>
-<td valign="top">
-Facts change over time, so ordinary retrieval returns answers that were true once. Veritas tracks when evidence was valid and refuses when it can't back an answer. Scored <b>1.00</b> vs <b>0.11</b> for basic retrieval on TemporalEvidenceBench; audit <b>50/50</b> correct with <b>12/12</b> refusals. Includes a <b>14M-parameter transformer</b> trained from scratch.<br/>
-<a href="https://github.com/barath80?tab=repositories">Repository</a> <!-- REPLACE -->
-</td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,react,kafka,sqlite&perline=5" alt="PyTorch, FastAPI, React, Kafka, SQLite"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>UrbanTrace AI</b><br/><sub>City traffic analytics</sub></td>
-<td valign="top">
-One vehicle seen by many cameras gets counted many times. UrbanTrace reads number plates at <b>92.2%</b> character accuracy and <b>18.2 fps</b> per camera, then stitches trajectories across cameras: <b>110 tracker IDs resolved into 28 vehicles</b>.<br/>
-<a href="https://github.com/barath80?tab=repositories">Repository</a> <!-- REPLACE -->
-</td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,opencv&perline=5" alt="Python, FastAPI, PostgreSQL, OpenCV"/><br/>
-<sub>YOLO11m · ByteTrack · ONNX · PostGIS</sub>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>AgriSmart</b><br/><sub>Smart agriculture app</sub></td>
-<td valign="top">
-Brings crop and yield prediction and plant disease detection into one mobile app with IoT integration, multilingual support and offline caching. Crop models reach <b>93%</b> accuracy over 22 crops (R² <b>0.91</b>); disease detection hits <b>98.1%</b> on unseen data and a subject gate cut false accepts <b>33% → 2%</b>.<br/>
-<a href="https://github.com/barath80?tab=repositories">Repository</a> <!-- REPLACE -->
-</td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=react,py,fastapi&perline=5" alt="React Native, Python, FastAPI"/><br/>
-<sub>Expo · XGBoost · MobileNetV3 · ONNX</sub>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Nifty 100 Financial Intelligence</b><br/><sub>Financial analytics</sub></td>
-<td valign="top">
-Turns raw financial data into usable analysis: ETL pipelines feed Power BI dashboards and a Django web app and API, covering <b>100% of Nifty 100</b> companies over a <b>12-year</b> model.<br/>
-<a href="https://github.com/barath80?tab=repositories">Repository</a> <!-- REPLACE -->
-</td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=py,django&perline=5" alt="Python, Django"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="30" alt="Power BI"/>
+<td colspan="2" align="center" valign="top">
+
+<h3>🌱 AgriSmart</h3>
+<sub><b>AI/ML-Powered Smart Agriculture Platform</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Crop%20model-93%25%20%C2%B7%2022%20crops-4F8CFF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Yield-R%C2%B2%200.91%20%C2%B7%20MAE%201.51%20t%2Fha-9875FF?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Disease%20model-98.1%25%20unseen-38D9E6?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Hack%20Karnataka-Finalist-F5C45E?style=flat-square&labelColor=10172A"/>
+<br/><br/>
+<b>Problem:</b> farmers need crop advice and disease checks in one app that works offline and in their language.
+<br/><br/>
+▸ <b>XGBoost</b> crop and yield models trained on <b>10,429 records</b>: 93% accuracy over 22 crops, R² 0.91<br/>
+▸ <b>MobileNetV3</b> disease and pest models exported to <b>ONNX</b>: 38 classes, 98.1% on unseen data<br/>
+▸ A subject gate cut false accepts from <b>33% → 2%</b><br/>
+▸ React Native mobile app with IoT integration, multilingual support and offline caching
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,react,sklearn&perline=6" height="36" alt="Python, FastAPI, React Native, Scikit-learn"/>
+<br/>
+<sub>XGBoost · MobileNetV3 · ONNX · Expo</sub>
+<br/><br/>
+<a href="https://github.com/barath80/AgriSmart"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </td>
 </tr>
 </table>
@@ -299,129 +445,280 @@ Turns raw financial data into usable analysis: ETL pipelines feed Power BI dashb
 <div align="center">
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<i>"Simplicity is a prerequisite for reliability."</i> — Edsger W. Dijkstra
+<h3 align="center"><i>❝ Programs must be written for people to read, and only incidentally for machines to execute. ❞</i></h3>
+<p align="center"><b>— Harold Abelson</b></p>
 
 <br/><br/>
 
-<!-- ═══════════════ 04 · SKILLS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=420&height=50&lines=Tech+Stack" alt="Tech Stack"/>
+<!-- ═══════════════ 04 · TECH STACK ═══════════════ -->
+<h1 align="center">🛠️ Tech Stack</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Everything+I+use+to+design%2C+build+and+ship" alt="Everything I use to design, build and ship"/>
 
 </div>
 
-<table width="100%">
-<tr><td width="20%"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts&perline=10" alt="C++, Java, Python, JavaScript, TypeScript"/></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&perline=10" alt="React, Next.js, Vite, HTML, CSS, Tailwind"/></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=10" alt="Node.js, Express, Flask, FastAPI"/></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis&perline=10" alt="PostgreSQL, MongoDB, Supabase, Redis"/> <sub>&nbsp;+ NeonDB</sub></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&perline=10" alt="PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas"/> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face"/></td></tr>
-<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,firebase,vercel,prometheus,grafana&perline=10" alt="AWS, Docker, Firebase, Vercel, Prometheus, Grafana"/> <img src="https://cdn.simpleicons.org/render/4F8CFF" height="48" alt="Render"/></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=10" alt="Git, GitHub, Linux, VS Code, Postman"/></td></tr>
+<table align="center">
+<tr>
+<td align="center" width="22%"><b>💻 Languages</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts&perline=10" alt="C, C++, Python, Java, JavaScript, TypeScript"/><br/>
+<img src="https://img.shields.io/badge/SQL-4F8CFF?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Frontend & Design</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,bootstrap,tailwind,figma&perline=10" alt="HTML, CSS, React, Next.js, Angular, Bootstrap, Tailwind, Figma"/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend & Databases</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mysql,mongodb,postgres,redis&perline=10" alt="Node.js, Express, Flask, FastAPI, MySQL, MongoDB, PostgreSQL, Redis"/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-4F8CFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 Machine Learning & AI</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" alt="PyTorch, TensorFlow, Scikit-learn, OpenCV"/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-1A6FB0?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-38D9E6?style=flat-square&labelColor=10172A"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧠 Generative & Agentic AI</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/LLMs-9875FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-4F8CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-38D9E6?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-9875FF?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>☁️ DevOps, Cloud & Testing</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,linux,ubuntu,aws&perline=10" alt="Git, GitHub, Docker, Jenkins, Kubernetes, Linux, Ubuntu, AWS"/><br/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-EC2%20%C2%B7%20S3-FF9900?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>📚 CS Fundamentals</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/DSA-4F8CFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-9875FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-38D9E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-4F8CFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOPs-9875FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-38D9E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agile-4F8CFF?style=flat-square"/>
+</td>
+</tr>
 </table>
 
 <div align="center">
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<i>Built under pressure, shipped before the deadline.</i>
+<h3 align="center"><i>❝ Opportunities don't happen. You create them. ❞</i></h3>
+<p align="center"><b>— Chris Grosser</b></p>
 
 <br/><br/>
 
 <!-- ═══════════════ 05 · ACHIEVEMENTS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2200&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=480&height=50&lines=Achievements+%26+Prizes" alt="Achievements and Prizes"/>
+<h1 align="center">🏆 Achievements & Prizes</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=2+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="2 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hackathon%20wins-2-F5C45E?style=for-the-badge&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Prize%20money-%244%2C500%20%2B%20%E2%82%B920%2C000-4F8CFF?style=for-the-badge&labelColor=10172A"/>
 
 </div>
 
-<table width="100%">
+<!-- 4 achievements: two columns, two rows -->
+<table align="center">
 <tr>
-<th align="left" width="36%">Event</th>
-<th align="left" width="22%">Result</th>
-<th align="left" width="14%">Prize</th>
-<th align="left" width="28%">Built</th>
-</tr>
-<tr><td>Cardano Hackathon Asia, IBW Edition '25</td><td><b>Winner</b></td><td><b>$2,000</b></td><td>Lendora AI, a DeFi platform</td></tr>
-<tr><td>QIE Blockchain Hackathon</td><td><b>Winner</b></td><td><b>$2,500</b></td><td>NeuroCred, an on-chain credit passport</td></tr> <!-- REPLACE: add year once confirmed -->
-<tr><td>Beach Hack Kerala '25</td><td><b>Winner</b></td><td>—</td><td>—</td></tr> <!-- REPLACE: add prize/project -->
-<tr><td>Beach Hack 2026 · Team HORIZON</td><td><b>Second Runner-Up</b></td><td><b>₹20,000</b></td><td>Contexta</td></tr>
-<tr><td>Hack-Karnataka</td><td><b>Finalist</b> · Top 2 in track, 3,000+ teams</td><td>—</td><td>AgriSmart</td></tr>
-</table>
+<td width="50%" align="center" valign="top">
 
-<details>
-<summary><b>Also competed in</b></summary>
-<br/>
-Saturnalia · Sat Hack 2025 · Smart India Hackathon · Microsoft Fabric FabCon Global Hackathon
-</details>
+<h3>🥉 BeachHack National Hackathon '26</h3>
+<img src="https://img.shields.io/badge/2nd%20Runner--Up-CD7F32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prize-%E2%82%B920%2C000-F5C45E?style=for-the-badge&labelColor=10172A"/>
+<br/><br/>
+Christ University · <b>Feb 2026</b><br/>
+Built <b>Contexta</b>, an autonomous AI threat intelligence platform
+<br/><br/>
+<a href="https://drive.google.com/file/d/1Bam3W_mtbH9-p50hzK9plZW-eOoNYDRn/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>🏆 QIE International Blockchain Hackathon '26</h3>
+<img src="https://img.shields.io/badge/Winner-FFD700?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prize-%242%2C500-F5C45E?style=for-the-badge&labelColor=10172A"/>
+<br/><br/>
+International · <b>Jan 2026</b><br/>
+Built <b>NeuroCred</b>, an on-chain credit passport
+<br/><br/>
+<a href="https://drive.google.com/file/d/1MlTksyzBgjoexza9PlpwJ75jwB-3RqNd/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>🎯 Hack Karnataka (GDG) '25</h3>
+<img src="https://img.shields.io/badge/Finalist-9875FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Top%202-in%20track-F5C45E?style=for-the-badge&labelColor=10172A"/>
+<br/><br/>
+3,000+ teams nationwide · <b>Nov 2025</b><br/>
+Built <b>AgriSmart</b>, an AI/ML smart agriculture platform
+<br/><br/>
+<a href="https://drive.google.com/file/d/15OREU4L4j4by--eLLtsYbKQXTJ7rvuGP/view?usp=drive_link"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>🏆 Cardano Hackathon Asia, IBW Edition '25</h3>
+<img src="https://img.shields.io/badge/Winner-FFD700?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prize-%242%2C000-F5C45E?style=for-the-badge&labelColor=10172A"/>
+<br/><br/>
+5,000+ teams · <b>Nov 2025</b><br/>
+Built <b>Lendora AI</b>, a DeFi platform
+<br/><br/>
+<a href="https://drive.google.com/file/d/10eZ_gS1Jldy9BC-Xhr89kQsC7DG13hO7/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+<sub><b>Also competed in:</b> Saturnalia · Sat Hack 2025 · Smart India Hackathon · Microsoft Fabric FabCon Global Hackathon</sub>
+
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<i>Consistency beats intensity.</i>
+<h3 align="center"><i>❝ We are what we repeatedly do. Excellence, then, is not an act, but a habit. ❞</i></h3>
+<p align="center"><b>— Will Durant</b></p>
 
 <br/><br/>
 
 <!-- ═══════════════ 06 · COMPETITIVE PROGRAMMING ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=520&height=50&lines=Problem+Solving" alt="Problem Solving"/>
+<h1 align="center">⚡ Competitive Programming</h1>
 
-<!-- Live numbers pulled from your LeetCode profile, so the solved count is always current -->
-<a href="https://leetcode.com/barath80">
-<img src="https://leetcard.jacoblin.cool/barath80?theme=dark&font=Karla&ext=heatmap" width="85%" alt="LeetCode statistics"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=1000++problems+%C2%B7+500++day+streak+%C2%B7+C+++throughout" alt="1000+ problems · 500+ day streak · C++ throughout"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%94%A5%20LeetCode%20streak-500%2B%20days-FFA116?style=for-the-badge&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Solved-1000%2B-38D9E6?style=for-the-badge&labelColor=10172A&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/Max%20rating-1815-9875FF?style=for-the-badge&labelColor=10172A"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=barath80&hide_border=true&background=00000000&ring=9875FF&fire=38D9E6&currStreakLabel=4F8CFF&sideLabels=8993A8&currStreakNum=8993A8&sideNums=8993A8&dates=8993A8" height="160" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api?username=barath80&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8CFF&icon_color=9875FF&text_color=8993A8&count_private=true" height="160" alt="GitHub stats"/>
+<!-- Live LeetCode card: solved count and daily-activity heatmap stay current automatically -->
+<a href="https://leetcode.com/u/barath80/">
+<img src="https://leetcard.jacoblin.cool/barath80?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" width="520" alt="LeetCode stats and activity heatmap"/>
+</a>
 
 </div>
 
-<table width="100%">
+<!-- 3 platforms: two side by side, the third centered below -->
+<table align="center">
 <tr>
-<th align="left" width="20%">Platform</th>
-<th align="left" width="24%">Handle</th>
-<th align="left" width="16%">Peak rating</th>
-<th align="left" width="40%">Highlights</th>
-</tr>
-<tr><td><a href="https://leetcode.com/barath80">LeetCode</a></td><td>barath80</td><td><b>1815</b></td><td>Top 10% · 500+ day daily streak</td></tr>
-<tr><td><a href="https://www.codechef.com/users/barath80">CodeChef</a></td><td>barath80</td><td><b>1183</b></td><td>222+ solved · Bronze & Gold badges</td></tr>
-<tr><td><a href="https://codeforces.com/profile/sunkireddybarath07">Codeforces</a></td><td>sunkireddybarath07</td><td><b>706</b></td><td>Active contest participant</td></tr>
-</table>
+<td width="50%" align="center" valign="top">
 
-<table width="100%">
+<h3><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22"/> LeetCode</h3>
+<a href="https://leetcode.com/u/barath80/"><code>barath80</code></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Max%20rating-1815-FFA116?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Top-10%25-4F8CFF?style=flat-square&labelColor=10172A"/>
+<br/>
+<img src="https://img.shields.io/badge/Solved-1000%2B-38D9E6?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Streak-500%2B%20days-9875FF?style=flat-square&labelColor=10172A"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3><img src="https://cdn.simpleicons.org/codechef/B9875A" height="22"/> CodeChef</h3>
+<a href="https://www.codechef.com/users/barath80"><code>barath80</code></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Max%20rating-1183-B9875A?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Solved-222%2B-38D9E6?style=flat-square&labelColor=10172A"/>
+<br/>
+<img src="https://img.shields.io/badge/Badges-Bronze%20%26%20Gold-F5C45E?style=flat-square&labelColor=10172A"/>
+
+</td>
+</tr>
 <tr>
-<td width="33%" align="center"><b>Consistency</b><br/>500+ day daily streak</td>
-<td width="34%" align="center"><b>Depth</b><br/>1815 peak LeetCode rating</td>
-<td width="33%" align="center"><b>Range</b><br/>3 platforms, C++ throughout</td>
+<td colspan="2" align="center" valign="top">
+
+<h3><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="22"/> Codeforces</h3>
+<a href="https://codeforces.com/profile/sunkireddybarath07"><code>sunkireddybarath07</code></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Max%20rating-706-1F8ACB?style=flat-square&labelColor=10172A"/>
+<img src="https://img.shields.io/badge/Status-Active%20contestant-9875FF?style=flat-square&labelColor=10172A"/>
+<br/>
+<sub>Building problem-solving speed and logic, C++ throughout</sub>
+
+</td>
 </tr>
 </table>
 
 <div align="center">
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/><br/>
 
 <!-- ═══════════════ 07 · CONTACT ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3500&pause=1500&color=9875FF&center=true&vCenter=true&width=780&height=50&lines=Great+things+are+built+when+curious+minds+come+together.;Let%27s+build+something+amazing+together." alt="Closing quote"/>
+<h3 align="center"><i>❝ Alone we can do so little; together we can do so much. ❞</i></h3>
+<p align="center"><b>— Helen Keller</b></p>
+
+<br/>
+
+<h1 align="center">🤝 Let's Connect</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
 
 <br/>
 
 Open to software engineering internships, open-source collaboration, and building products with curious teams.
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/barath80">GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> &nbsp;·&nbsp; <!-- REPLACE -->
-<a href="mailto:sunkireddybarath07@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://YOUR-PORTFOLIO-URL">Portfolio</a> <!-- REPLACE or delete -->
+<a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8CFF,50:9875FF,100:38D9E6" width="100%" height="2" alt=""/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
 </div>
+```
