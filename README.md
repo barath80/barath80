@@ -178,8 +178,6 @@ Focus:
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
-
-<br/>
 <h1 align="center">🎓 Education</h1>
 <table align="center">
 <tr>
@@ -205,7 +203,7 @@ Focus:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY.+%E2%9D%9E" alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY." alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
@@ -512,11 +510,13 @@ Built <b>Lendora AI</b>, a DeFi platform
 <br/>
 
 <!-- ═══════════════ 06 · COMPETITIVE PROGRAMMING ═══════════════ -->
-<h1 align="center">⚡ Competitive Programming</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=1000++problems+%C2%B7+500++day+streak+%C2%B7+C+++throughout" alt="1000+ problems · 500+ day streak · C++ throughout"/>
+<h1 align="center">⚡ Competitive Programming</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=1000++problems+%C2%B7+500++day+streak+%C2%B7+C+++throughout" alt="1000+ problems · 500+ day streak · C++ throughout"/>
 <img src="https://img.shields.io/badge/%F0%9F%94%A5%20LeetCode%20streak-500%2B%20days-FFA116?style=for-the-badge&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Solved-1000%2B-38D9E6?style=for-the-badge&labelColor=10172A&logo=leetcode&logoColor=FFA116"/>
 <img src="https://img.shields.io/badge/Max%20rating-1815-9875FF?style=for-the-badge&labelColor=10172A"/>
-
+</div>
 
 <!-- Live LeetCode card: solved count and daily-activity heatmap stay current automatically -->
 <div align="center">
@@ -554,7 +554,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+ALONE+WE+CAN+DO+SO+LITTLE%3B+TOGETHER+WE+CAN+DO+SO+MUCH.+%E2%9D%9E" alt="ALONE WE CAN DO SO LITTLE; TOGETHER WE CAN DO SO MUCH."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=ALONE+WE+CAN+DO+SO+LITTLE%3B+TOGETHER+WE+CAN+DO+SO+MUCH." alt="ALONE WE CAN DO SO LITTLE; TOGETHER WE CAN DO SO MUCH."/>
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 <br/>
