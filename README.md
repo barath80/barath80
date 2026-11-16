@@ -17,9 +17,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=barath80&label=Profile%20views&color=4F8CFF&style=flat-square&abbreviated=true" alt="Profile views"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20%E2%9D%9E;%E2%80%94%20Alan%20Kay" alt="❝ The best way to predict the future is to invent it.❞ "/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=45&repeat=true&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products;Let's+Build+Something+Amazing+Together;Turning+Ideas+into+Products;Think+Big+%C2%B7+Build+Boldly+%C2%B7+Make+an+Impact;Build+Systems+%C2%B7+Solve+Problems+%C2%B7+Ship+Ideas" alt="Software Engineer | Gen AI | Building Amazing Products"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=17&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=58&lines=LET%27S%20BUILD%20SOMETHING%20AMAZING%20TOGETHER;TURNING%20IDEAS%20INTO%20PRODUCTS" alt="LET'S BUILD SOMETHING AMAZING TOGETHER — TURNING IDEAS INTO PRODUCTS"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=58&lines=LET%27S%20BUILD%20SOMETHING%20AMAZING%20TOGETHER;TURNING%20IDEAS%20INTO%20PRODUCTS" alt="LET'S BUILD SOMETHING AMAZING TOGETHER — TURNING IDEAS INTO PRODUCTS"/>
 
 
 <!-- ═══════════════ 01 · ABOUT ═══════════════ -->
