@@ -47,6 +47,12 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 </table><div align="center"><table align="center" width="100%">
 </table></div>
 <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/><table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<br/>
+</td></tr>
+</table>
 <!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
 
 <!-- C++ CODE BOX: INTRODUCTION -->
@@ -193,8 +199,6 @@ Focus:
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Knowing%20is%20not%20enough%3B%20we%20must%20apply.%20%E2%9D%9E;%E2%80%94%20Johann%20Wolfgang%20von%20Goethe" alt="❝ Knowing is not enough; we must apply. ❞ — — Johann Wolfgang von Goethe"/>
-<br/>
 </td></tr>
 </table>
 
@@ -258,12 +262,10 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Talk%20is%20cheap.%20Show%20me%20the%20code.%20%E2%9D%9E;%E2%80%94%20Linus%20Torvalds" alt="❝ Talk is cheap. Show me the code. ❞ — — Linus Torvalds"/>
-<br/>
 </td></tr>
 </table>
 
-
+<br/>
 <!-- ═══════════════ 03 · PROJECTS ═══════════════ -->
 <h1 align="center">🚀 Featured Projects</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+Computer+vision+%C2%B7+Cloud+reliability" alt="Agentic AI · RAG · Computer vision · Cloud reliability"/></div><!-- 5 projects: 2 + 2 side by side, the fifth centered below -->
 <table align="center">
@@ -378,14 +380,13 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.%20%E2%9D%9E;%E2%80%94%20Harold%20Abelson" alt="❝ Programs must be written for people to read, and only incidentally for machines to execute. ❞ — — Harold Abelson"/>
-<br/>
 </td></tr>
 </table>
+<br/>
 
 
 <!-- ═══════════════ 04 · TECH STACK ═══════════════ -->
-<h1 align="center">🛠️ Tech Stack</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Everything+I+use+to+design%2C+build+and+ship" alt="Everything I use to design, build and ship"/></div><table align="center">
+<h1 align="center"> Tech Stack</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Everything+I+use+to+design%2C+build+and+ship" alt="Everything I use to design, build and ship"/></div><table align="center">
 <tr>
 <td align="center" width="22%"><b>💻 Languages</b></td>
 <td align="center">
@@ -463,10 +464,9 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Opportunities%20don%27t%20happen.%20You%20create%20them.%20%E2%9D%9E;%E2%80%94%20Chris%20Grosser" alt="❝ Opportunities don't happen. You create them. ❞ — — Chris Grosser"/>
-<br/>
 </td></tr>
 </table>
+<br/>
 
 
 <!-- ═══════════════ 05 · ACHIEVEMENTS ═══════════════ -->
@@ -517,15 +517,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
-
-<table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.%20%E2%9D%9E;%E2%80%94%20Will%20Durant" alt="❝ We are what we repeatedly do. Excellence, then, is not an act, but a habit. ❞ — — Will Durant"/>
-<br/>
-</td></tr>
-</table>
-
+,br/>
 
 <!-- ═══════════════ 06 · COMPETITIVE PROGRAMMING ═══════════════ -->
 <h1 align="center">⚡ Competitive Programming</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=1000++problems+%C2%B7+500++day+streak+%C2%B7+C+++throughout" alt="1000+ problems · 500+ day streak · C++ throughout"/>
@@ -568,13 +560,10 @@ Built <b>Lendora AI</b>, a DeFi platform
 </table><div align="center"><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/><br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
-<table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Alone%20we%20can%20do%20so%20little%3B%20together%20we%20can%20do%20so%20much.%20%E2%9D%9E;%E2%80%94%20Helen%20Keller" alt="❝ Alone we can do so little; together we can do so much. ❞ — — Helen Keller"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Alone%20we%20can%20do%20so%20little%3B%20together%20we%20can%20do%20so%20much.%20%E2%9D%9E;%E2%80%94%20Helen%20Keller" alt="❝ Alone we can do so little; together we can do so much. ❞ "/>
 <br/>
-</td></tr>
-</table>
+
 <h1 align="center">🤝 Let's Connect</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
 Open to software engineering internships, open-source collaboration, and building products with curious teams.
 
