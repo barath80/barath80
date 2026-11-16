@@ -561,8 +561,17 @@ Built <b>Lendora AI</b>, a DeFi platform
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 <br/>
 
-<h1 align="center">🤝 Let's Connect</h1>
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>Open to software engineering internships, open-source collaboration, and building products with curious teams.
+<h1 align="center">🤝 LET'S CONNECT</h1>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=900&height=40&lines=GREAT+THINGS+ARE+BUILT+WHEN+CURIOUS+MINDS+COME+TOGETHER" alt="GREAT THINGS ARE BUILT WHEN CURIOUS MINDS COME TOGETHER"/>
+
+  <p align="center">
+    Open to software engineering internships, open-source collaboration,<br/>
+    and building products with curious teams.
+  </p>
+
 </div>
 <div align="center">
 
