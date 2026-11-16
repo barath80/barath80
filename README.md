@@ -8,17 +8,18 @@
 --><!-- ═══════════════ HERO ═══════════════ -->
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/>
 
+<br/>
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://leetcode.com/u/barath80/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=Let's+Build+Something+Amazing+Together;Turning+Ideas+into+Products;Think+Big+%C2%B7+Build+Boldly;Innovate+Beyond+Boundaries;Create+Something+Extraordinary" alt="Let's Build Something Amazing Together"/>
 
-
+<br/>
 <!-- ═══════════════ 01 · ABOUT ═══════════════ -->
 <h1 align="center">👨‍💻 About Me</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=A+quick+look+at+who+I+am+and+what+I+build" alt="A quick look at who I am and what I build"/></div><!-- LEFT: story and details · RIGHT: photo, then terminal typing line by line -->
 <table align="center">
@@ -50,13 +51,18 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 <br/>
 </td></tr>
 </table></div>
+<br/>
+<!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
 <!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
 <table align="center">
 <tr>
 <td align="center">🔴 🟡 🟢 &nbsp;&nbsp; <b>intro.cpp</b> &nbsp; <sub>C++17</sub></td>
 </tr>
 <tr>
-<td>#include <iostream>
+<td>
+
+cpp
+#include <iostream>
 #include <string>
 #include <vector>
 using namespace std;
@@ -93,13 +99,18 @@ int main() {
     cout << "\n\"" << me.motto << "\"\n";
     return 0;
 }
+
+
 </td>
 </tr>
 <tr>
 <td align="center"><b>Terminal</b> &nbsp; <sub>$ g++ -std=c++17 intro.cpp -o intro && ./intro</sub></td>
 </tr>
 <tr>
-<td>Hello, World!
+<td>
+
+text
+Hello, World!
 Sunkireddy Barath | B.E. Computer Science and Engineering
 Chennai Institute of Technology | 2024 - 2028 | CGPA 8.78
 
@@ -117,17 +128,22 @@ Focus:
   > Cloud
 
 "Build systems. Solve problems. Ship ideas."
+
+
 </td>
 </tr>
-</table><div align="center"><br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20The%20beautiful%20thing%20about%20learning%20is%20that%20nobody%20can%20take%20it%20away%20from%20you.%20%E2%9D%9E;%E2%80%94%20B.B.%20King" alt="❝ The beautiful thing about learning is that nobody can take it away from you. ❞ — — B.B. King"/>
-<br/>
-</td></tr>
 </table>
+
+<div align="center">
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/>
+
+<h3 align="center"><i>❝ The beautiful thing about learning is that nobody can take it away from you. ❞</i></h3>
+<p align="center"><b>— B.B. King</b></p>
+
+<br/>
 <h1 align="center">🎓 Education</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Where+the+foundations+were+built" alt="Where the foundations were built"/></div><table align="center">
 <tr>
 <td align="center"><h3>🏫 Chennai Institute of Technology</h3>
