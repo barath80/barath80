@@ -8,14 +8,14 @@
 --><!-- ═══════════════ HERO ═══════════════ -->
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/>
 
-<br/><br/>
+<br/>
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://leetcode.com/u/barath80/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=Let's+Build+Something+Amazing+Together;Turning+Ideas+into+Products;Think+Big+%C2%B7+Build+Boldly;Innovate+Beyond+Boundaries;Create+Something+Extraordinary" alt="Let's Build Something Amazing Together"/>
 
@@ -203,7 +203,7 @@ Focus:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY.+%E2%9D%9E" alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY.+%E2%9D%9E" alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
@@ -463,7 +463,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 
 
 <!-- ═══════════════ 05 · ACHIEVEMENTS ═══════════════ -->
-<h1 align="center">🏆 Achievements & Prizes</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=2+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="4 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
+<h1 align="center">🏆 Achievements & Prizes</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=4+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="4 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
 <img src="https://img.shields.io/badge/Hackathon%20wins-2-F5C45E?style=for-the-badge&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Prize%20money-%244%2C500%20%2B%20%E2%82%B920%2C000-4F8CFF?style=for-the-badge&labelColor=10172A"/></div><!-- 4 achievements: two columns, two rows -->
 <table align="center">
@@ -551,7 +551,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+ALONE+WE+CAN+DO+SO+LITTLE%3B+TOGETHER+WE+CAN+DO+SO+MUCH.+%E2%9D%9E" alt="ALONE WE CAN DO SO LITTLE; TOGETHER WE CAN DO SO MUCH."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+ALONE+WE+CAN+DO+SO+LITTLE%3B+TOGETHER+WE+CAN+DO+SO+MUCH.+%E2%9D%9E" alt="ALONE WE CAN DO SO LITTLE; TOGETHER WE CAN DO SO MUCH."/>
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 <br/>
