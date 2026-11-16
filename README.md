@@ -202,6 +202,7 @@ Focus:
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
+</br>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY." alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
