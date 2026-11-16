@@ -554,7 +554,9 @@ Built <b>Lendora AI</b>, a DeFi platform
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Alone%20we%20can%20do%20so%20little%3B%20together%20we%20can%20do%20so%20much.%20%E2%9D%9E;%E2%80%94%20Helen%20Keller" alt="❝ Alone we can do so little; together we can do so much. ❞ "/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+Alone+we+can+do+so+little%3B+together+we+can+do+so+much.+%E2%9D%9E" alt="❝ Alone we can do so little; together we can do so much. ❞"/>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 <br/>
 
 <h1 align="center">🤝 Let's Connect</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
@@ -568,6 +570,6 @@ Open to software engineering internships, open-source collaboration, and buildin
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 
 ```
