@@ -1,4 +1,4 @@
-```
+
 <!--
   GITHUB PROFILE README — SUNKIREDDY BARATH
   Repo: barath80/barath80  ·  File: README.md
