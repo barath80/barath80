@@ -55,13 +55,9 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 <table align="center" width="100%">
 <tr>
 <td align="center" bgcolor="#10172A">
-  <font color="#FF6B6B">🔴</font>
-  <font color="#F5C45E">🟡</font>
-  <font color="#38D9E6">🟢</font>
-  &nbsp;&nbsp;
+  🔴 🟡 🟢 &nbsp;&nbsp;
   <b><font color="#FFFFFF">intro.cpp</font></b>
-  &nbsp;
-  <sub><font color="#38D9E6">C++17</font></sub>
+  &nbsp; <sub><font color="#38D9E6">C++17</font></sub>
 </td>
 </tr>
 
@@ -69,68 +65,25 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 <td bgcolor="#0D1117">
 
 ```cpp
-// Personal Engineer Profile
-
 #include <iostream>
-#include <string>
 #include <vector>
 using namespace std;
 
-// Engineer Structure
-struct Engineer {
-
-    // Personal Information
-    string name    = "Sunkireddy Barath";
-    string college = "Chennai Institute of Technology";
-    string degree  = "B.E. Computer Science and Engineering";
-    string batch   = "2024 - 2028";
-    double cgpa    = 8.78;
-
-    // Personal Motto
-    string motto = "Build systems. Solve problems. Ship ideas.";
-
-    // Technical Skills
-    vector<string> stack = {
-        "C++", "Python", "Java", "JavaScript", "TypeScript"
-    };
-
-    // Areas of Focus
-    vector<string> focus = {
-        "Gen AI & Agentic AI",
-        "Full stack",
-        "Distributed systems",
-        "Cloud"
-    };
-};
-
-// Main Function
 int main() {
+    string name = "Sunkireddy Barath";
+    vector<string> skills = {"C++", "Python", "Java", "JavaScript", "TypeScript"};
+    vector<string> focus = {"Gen AI & Agentic AI", "Full Stack", "Distributed Systems", "Cloud"};
 
-    // Create Engineer Object
-    Engineer me;
+    cout << "Hello, World!\n" << name << " | CSE @ CIT\n";
+    cout << "2024-2028 | CGPA: 8.78\n\n";
 
-    // Display Introduction
-    cout << "Hello, World!\n";
-    cout << me.name << " | " << me.degree << "\n";
-    cout << me.college << " | " << me.batch
-         << " | CGPA " << me.cgpa << "\n\n";
-
-    // Display Technical Stack
     cout << "Stack:\n";
+    for (auto s : skills) cout << "> " << s << " ";
 
-    for (const auto& s : me.stack)
-        cout << "  > " << s << "\n";
+    cout << "\n\nFocus:\n";
+    for (auto f : focus) cout << "> " << f << "\n";
 
-    // Display Areas of Focus
-    cout << "\nFocus:\n";
-
-    for (const auto& f : me.focus)
-        cout << "  > " << f << "\n";
-
-    // Display Motto
-    cout << "\n\"" << me.motto << "\"\n";
-
-    return 0;
+    cout << "\nBuild systems. Solve problems. Ship ideas.\n";
 }
 ```
 
@@ -149,27 +102,22 @@ int main() {
 <td bgcolor="#0D1117">
 
 ```text
-$ g++ -std=c++17 intro.cpp -o intro && ./intro
+$ ./intro
 
 Hello, World!
-
-Sunkireddy Barath | B.E. Computer Science and Engineering
-Chennai Institute of Technology | 2024 - 2028 | CGPA 8.78
+Sunkireddy Barath | CSE @ CIT
+2024-2028 | CGPA: 8.78
 
 Stack:
-  > C++
-  > Python
-  > Java
-  > JavaScript
-  > TypeScript
+> C++ > Python > Java > JavaScript > TypeScript
 
 Focus:
-  > Gen AI & Agentic AI
-  > Full stack
-  > Distributed systems
-  > Cloud
+> Gen AI & Agentic AI
+> Full Stack
+> Distributed Systems
+> Cloud
 
-"Build systems. Solve problems. Ship ideas."
+Build systems. Solve problems. Ship ideas.
 ```
 
 </td>
