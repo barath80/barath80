@@ -90,36 +90,6 @@ int main() {
 </td>
 </tr>
 
-<tr>
-<td align="center" bgcolor="#10172A">
-  <font color="#38D9E6"><b>● TERMINAL</b></font>
-  &nbsp;
-  <font color="#8993A8"><sub>g++ -std=c++17 intro.cpp -o intro && ./intro</sub></font>
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#0D1117">
-
-```text
-$ ./intro
-
-Hello, World!
-Sunkireddy Barath | CSE @ CIT
-2024-2028 | CGPA: 8.78
-
-Stack:
-> C++ > Python > Java > JavaScript > TypeScript
-
-Focus:
-> Gen AI & Agentic AI
-> Full Stack
-> Distributed Systems
-> Cloud
-
-Build systems. Solve problems. Ship ideas.
-```
-
 </td>
 </tr>
 </table>
