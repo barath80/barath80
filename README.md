@@ -13,7 +13,7 @@
 <a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://leetcode.com/u/barath80/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=barath80&label=Profile%20views&color=4F8CFF&style=flat-square&abbreviated=true" alt="Profile views"/>
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=Let's+Build+Something+Amazing+Together;Turning+Ideas+into+Products;Think+Big+%C2%B7+Build+Boldly;Innovate+Beyond+Boundaries;Create+Something+Extraordinary" alt="Let's Build Something Amazing Together"/>
