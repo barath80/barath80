@@ -14,16 +14,12 @@
 <a href="https://leetcode.com/u/barath80/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
+
 <img src="https://komarev.com/ghpvc/?username=barath80&label=Profile%20views&color=4F8CFF&style=flat-square&abbreviated=true" alt="Profile views"/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20%E2%9D%9E;%E2%80%94%20Alan%20Kay" alt="❝ The best way to predict the future is to invent it.❞ "/>
 
-<table align="center" width="100%">
-<tr><td align="center" bgcolor="#10172A">
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20%E2%9D%9E;%E2%80%94%20Alan%20Kay" alt="❝ The best way to predict the future is to invent it. ❞ — — Alan Kay"/>
-<br/>
-</td></tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=17&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=58&lines=LET%27S%20BUILD%20SOMETHING%20AMAZING%20TOGETHER;TURNING%20IDEAS%20INTO%20PRODUCTS" alt="LET'S BUILD SOMETHING AMAZING TOGETHER — TURNING IDEAS INTO PRODUCTS"/>
 
 
 <!-- ═══════════════ 01 · ABOUT ═══════════════ -->
