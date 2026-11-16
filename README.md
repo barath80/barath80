@@ -203,7 +203,7 @@ Focus:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/>
 
-<h3 align="center"><i>❝ Knowing is not enough; we must apply. ❞</i></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+KNOWING+IS+NOT+ENOUGH%3B+WE+MUST+APPLY.+%E2%9D%9E" alt="KNOWING IS NOT ENOUGH; WE MUST APPLY."/>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
@@ -463,7 +463,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 
 
 <!-- ═══════════════ 05 · ACHIEVEMENTS ═══════════════ -->
-<h1 align="center">🏆 Achievements & Prizes</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=2+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="2 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
+<h1 align="center">🏆 Achievements & Prizes</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=2+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="4 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
 <img src="https://img.shields.io/badge/Hackathon%20wins-2-F5C45E?style=for-the-badge&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Prize%20money-%244%2C500%20%2B%20%E2%82%B920%2C000-4F8CFF?style=for-the-badge&labelColor=10172A"/></div><!-- 4 achievements: two columns, two rows -->
 <table align="center">
@@ -503,10 +503,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 <br/><br/>
 <a href="https://drive.google.com/file/d/10eZ_gS1Jldy9BC-Xhr89kQsC7DG13hO7/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
 </tr>
-</table><div align="center"><sub><b>Also competed in:</b> Saturnalia · Sat Hack 2025 · Smart India Hackathon · Microsoft Fabric FabCon Global Hackathon</sub>
-
-
-
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
@@ -554,7 +551,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 <br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+Alone+we+can+do+so+little%3B+together+we+can+do+so+much.+%E2%9D%9E" alt="❝ Alone we can do so little; together we can do so much. ❞"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%E2%9D%9D+ALONE+WE+CAN+DO+SO+LITTLE%3B+TOGETHER+WE+CAN+DO+SO+MUCH.+%E2%9D%9E" alt="ALONE WE CAN DO SO LITTLE; TOGETHER WE CAN DO SO MUCH."/>
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 <br/>
@@ -562,14 +559,14 @@ Built <b>Lendora AI</b>, a DeFi platform
 <h1 align="center">🤝 Let's Connect</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
 Open to software engineering internships, open-source collaboration, and building products with curious teams.
 
-
+<div align="center">
 
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 
 ```
