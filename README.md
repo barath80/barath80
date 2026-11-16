@@ -6,12 +6,7 @@
   Profile photo: uses your GitHub avatar. To use a different photo,
   upload it to this repo (e.g. assets/me.jpg) and swap the src= of the photo in the About section.
 --><!-- ═══════════════ HERO ═══════════════ -->
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/><!-- LEFT-TO-RIGHT HERO MARQUEE -->
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <span style="color:#FFFFFF; font-size:20px; font-weight:700; letter-spacing:2px;">
-    LET'S BUILD SOMETHING AMAZING TOGETHER &nbsp; ✦ &nbsp; TURNING IDEAS INTO PRODUCTS &nbsp; ✦ &nbsp; BUILD • INNOVATE • SHIP &nbsp; ✦
-  </span>
-</marquee><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=58&lines=LET%27S%20BUILD%20SOMETHING%20AMAZING%20TOGETHER;TURNING%20IDEAS%20INTO%20PRODUCTS" alt="LET'S BUILD SOMETHING AMAZING TOGETHER — TURNING IDEAS INTO PRODUCTS"/>
 
 
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -26,8 +21,7 @@
 <table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ The best way to predict the future is to invent it. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— Alan Kay</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20%E2%9D%9E;%E2%80%94%20Alan%20Kay" alt="❝ The best way to predict the future is to invent it. ❞ — — Alan Kay"/>
 <br/>
 </td></tr>
 </table>
@@ -60,7 +54,8 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 </table><div align="center"><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">"I don't just write code. I build systems, solve problems, and turn ideas into products."</span></h3><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=58&lines=%22I%20don%27t%20just%20write%20code.%20I%20build%20systems%2C%20solve%20problems%2C%20and%20turn%20ideas%20into%20products.%22" alt="&quot;I don't just write code. I build systems, solve problems, and turn ideas into products.&quot;"/>
+<br/>
 </td></tr>
 </table></div>
 <!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
@@ -137,8 +132,7 @@ Focus:
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ The beautiful thing about learning is that nobody can take it away from you. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— B.B. King</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20The%20beautiful%20thing%20about%20learning%20is%20that%20nobody%20can%20take%20it%20away%20from%20you.%20%E2%9D%9E;%E2%80%94%20B.B.%20King" alt="❝ The beautiful thing about learning is that nobody can take it away from you. ❞ — — B.B. King"/>
 <br/>
 </td></tr>
 </table>
@@ -159,8 +153,7 @@ Focus:
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ Knowing is not enough; we must apply. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— Johann Wolfgang von Goethe</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Knowing%20is%20not%20enough%3B%20we%20must%20apply.%20%E2%9D%9E;%E2%80%94%20Johann%20Wolfgang%20von%20Goethe" alt="❝ Knowing is not enough; we must apply. ❞ — — Johann Wolfgang von Goethe"/>
 <br/>
 </td></tr>
 </table>
@@ -225,8 +218,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ Talk is cheap. Show me the code. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— Linus Torvalds</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Talk%20is%20cheap.%20Show%20me%20the%20code.%20%E2%9D%9E;%E2%80%94%20Linus%20Torvalds" alt="❝ Talk is cheap. Show me the code. ❞ — — Linus Torvalds"/>
 <br/>
 </td></tr>
 </table>
@@ -346,8 +338,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ Programs must be written for people to read, and only incidentally for machines to execute. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— Harold Abelson</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.%20%E2%9D%9E;%E2%80%94%20Harold%20Abelson" alt="❝ Programs must be written for people to read, and only incidentally for machines to execute. ❞ — — Harold Abelson"/>
 <br/>
 </td></tr>
 </table>
@@ -432,8 +423,7 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/><table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ Opportunities don't happen. You create them. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— Chris Grosser</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Opportunities%20don%27t%20happen.%20You%20create%20them.%20%E2%9D%9E;%E2%80%94%20Chris%20Grosser" alt="❝ Opportunities don't happen. You create them. ❞ — — Chris Grosser"/>
 <br/>
 </td></tr>
 </table>
@@ -491,8 +481,7 @@ Built <b>Lendora AI</b>, a DeFi platform
 <table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ We are what we repeatedly do. Excellence, then, is not an act, but a habit. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— Will Durant</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.%20%E2%9D%9E;%E2%80%94%20Will%20Durant" alt="❝ We are what we repeatedly do. Excellence, then, is not an act, but a habit. ❞ — — Will Durant"/>
 <br/>
 </td></tr>
 </table>
@@ -542,17 +531,11 @@ Built <b>Lendora AI</b>, a DeFi platform
 <table align="center" width="100%">
 <tr><td align="center" bgcolor="#10172A">
 <br/>
-<h3 align="center"><span style="color:#FFFFFF;">❝ Alone we can do so little; together we can do so much. ❞</span></h3>
-<p align="center"><span style="color:#FFFFFF;"><b>— Helen Keller</b></span></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1100&height=76&lines=%E2%9D%9D%20Alone%20we%20can%20do%20so%20little%3B%20together%20we%20can%20do%20so%20much.%20%E2%9D%9E;%E2%80%94%20Helen%20Keller" alt="❝ Alone we can do so little; together we can do so much. ❞ — — Helen Keller"/>
 <br/>
 </td></tr>
 </table>
-<!-- FINAL LEFT-TO-RIGHT MARQUEE -->
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <span style="color:#FFFFFF; font-size:22px; font-weight:700; letter-spacing:2px;">
-    LET'S BUILD SOMETHING AMAZING TOGETHER &nbsp; ✦ &nbsp; TURNING IDEAS INTO PRODUCTS &nbsp; ✦ &nbsp; THINK • BUILD • INNOVATE • SHIP
-  </span>
-</marquee><h1 align="center">🤝 Let's Connect</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
+<h1 align="center">🤝 Let's Connect</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
 Open to software engineering internships, open-source collaboration, and building products with curious teams.
 
 
