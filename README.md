@@ -1,4 +1,3 @@
-
 <!--
   GITHUB PROFILE README — SUNKIREDDY BARATH
   Repo: barath80/barath80  ·  File: README.md
@@ -6,16 +5,9 @@
   Layout rule: pairs sit in two columns; an odd item out is centered on its own row.
   Profile photo: uses your GitHub avatar. To use a different photo,
   upload it to this repo (e.g. assets/me.jpg) and swap the src= of the photo in the About section.
--->
+--><!-- ═══════════════ HERO ═══════════════ -->
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/>
 
-<!-- ═══════════════ HERO ═══════════════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -23,86 +15,53 @@
 <a href="https://leetcode.com/u/barath80/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=barath80&label=Profile%20views&color=4F8CFF&style=flat-square&abbreviated=true" alt="Profile views"/>
 
-<br/><br/>
 
-<h3 align="center"><i>❝ The best way to predict the future is to invent it. ❞</i></h3>
-<p align="center"><b>— Alan Kay</b></p>
+<table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#4F8CFF">✦ &nbsp; ❝ The best way to predict the future is to invent it. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#4F8CFF"><b>— Alan Kay</b></font></p>
+</td></tr>
+</table>
 
-<br/><br/>
 
 <!-- ═══════════════ 01 · ABOUT ═══════════════ -->
-<h1 align="center">👨‍💻 About Me</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=A+quick+look+at+who+I+am+and+what+I+build" alt="A quick look at who I am and what I build"/>
-
-</div>
-
-<!-- LEFT: story and details · RIGHT: photo, then terminal typing line by line -->
+<h1 align="center">👨‍💻 About Me</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=A+quick+look+at+who+I+am+and+what+I+build" alt="A quick look at who I am and what I build"/></div><!-- LEFT: story and details · RIGHT: photo, then terminal typing line by line -->
 <table align="center">
 <tr>
-<td width="55%" valign="middle">
-
-<h3 align="center">Hi, I'm Barath 👋</h3>
-
-<p align="center">
+<td width="55%" valign="middle"><h3 align="center">Hi, I'm Barath 👋</h3><p align="center">
 A third-year Computer Science student who builds software that solves real problems, from the data model to the API to the deployed product.
-</p>
-
-<p align="center">
+</p><p align="center">
 I've normalized <b>600K+ records</b> into a production API, tracked vehicles across cameras at <b>18.2 fps</b>, built <b>multi-agent Gemini</b> systems and <b>bitemporal RAG</b>, and won <b>2 hackathons</b> with <b>$4,500</b> in prizes.
-</p>
-
-<table align="center">
+</p><table align="center">
 <tr><td>🎓</td><td><b>College</b></td><td>Chennai Institute of Technology, Chennai</td></tr>
 <tr><td>📘</td><td><b>Degree</b></td><td>B.E. Computer Science and Engineering</td></tr>
 <tr><td>🗓️</td><td><b>Batch</b></td><td>2024 – 2028</td></tr>
 <tr><td>⭐</td><td><b>CGPA</b></td><td>8.78 / 10</td></tr>
 <tr><td>📍</td><td><b>Location</b></td><td>Chennai, Tamil Nadu</td></tr>
 <tr><td>🧠</td><td><b>Focus</b></td><td>Gen AI · Agentic AI · Full stack · Cloud</td></tr>
-</table>
-
-<p align="center">
+</table><p align="center">
 <img src="https://img.shields.io/badge/Main%20language-C%2B%2B-4F8CFF?style=flat-square&labelColor=10172A&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-Top%2010%25-F5C45E?style=flat-square&labelColor=10172A&logo=leetcode&logoColor=F5C45E"/>
 <img src="https://img.shields.io/badge/Internships-3-38D9E6?style=flat-square&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Open%20to-SDE%20internships-9875FF?style=flat-square&labelColor=10172A"/>
-</p>
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://github.com/barath80.png?size=400" width="190" alt="Sunkireddy Barath"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=600&color=38D9E6&multiline=true&repeat=true&width=340&height=230&lines=%24+whoami;barath+%E2%80%94+software+engineer;%24+cat+focus.txt;gen+ai+%C2%B7+agentic+ai+%C2%B7+full+stack;%24+cat+stack.txt;c%2B%2B+%C2%B7+python+%C2%B7+typescript;%24+echo+%24MISSION;solve+real+problems%2C+ship+real+products" alt="Terminal: whoami, focus, stack, mission"/>
-
-</td>
+</p></td>
+<td width="45%" align="center" valign="middle"><img src="https://github.com/barath80.png?size=400" width="190" alt="Sunkireddy Barath"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=600&color=38D9E6&multiline=true&repeat=true&width=340&height=230&lines=%24+whoami;barath+%E2%80%94+software+engineer;%24+cat+focus.txt;gen+ai+%C2%B7+agentic+ai+%C2%B7+full+stack;%24+cat+stack.txt;c%2B%2B+%C2%B7+python+%C2%B7+typescript;%24+echo+%24MISSION;solve+real+problems%2C+ship+real+products" alt="Terminal: whoami, focus, stack, mission"/></td>
 </tr>
-</table>
-
-<div align="center">
-
-<h3 align="center"><i>"I don't just write code. I build systems, solve problems, and turn ideas into products."</i></h3>
-
-</div>
-
-<br/>
-
+</table><div align="center"><table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#38D9E6">✦ &nbsp; "I don't just write code. I build systems, solve problems, and turn ideas into products." &nbsp; ✦</font></h3>
+</td></tr>
+</table></div>
 <!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
 <table align="center">
 <tr>
 <td align="center">🔴 🟡 🟢 &nbsp;&nbsp; <b>intro.cpp</b> &nbsp; <sub>C++17</sub></td>
 </tr>
 <tr>
-<td>
-
-```cpp
-#include <iostream>
+<td>#include <iostream>
 #include <string>
 #include <vector>
 using namespace std;
@@ -139,18 +98,13 @@ int main() {
     cout << "\n\"" << me.motto << "\"\n";
     return 0;
 }
-```
-
 </td>
 </tr>
 <tr>
 <td align="center"><b>Terminal</b> &nbsp; <sub>$ g++ -std=c++17 intro.cpp -o intro && ./intro</sub></td>
 </tr>
 <tr>
-<td>
-
-```text
-Hello, World!
+<td>Hello, World!
 Sunkireddy Barath | B.E. Computer Science and Engineering
 Chennai Institute of Technology | 2024 - 2028 | CGPA 8.78
 
@@ -168,34 +122,19 @@ Focus:
   > Cloud
 
 "Build systems. Solve problems. Ship ideas."
-```
-
 </td>
 </tr>
-</table>
-
-<div align="center">
-
-<br/>
+</table><div align="center"><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/>
-
-<h3 align="center"><i>❝ The beautiful thing about learning is that nobody can take it away from you. ❞</i></h3>
-<p align="center"><b>— B.B. King</b></p>
-
-<br/>
-
-<h1 align="center">🎓 Education</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Where+the+foundations+were+built" alt="Where the foundations were built"/>
-
-</div>
-
-<table align="center">
+<br/><table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#9875FF">✦ &nbsp; ❝ The beautiful thing about learning is that nobody can take it away from you. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#9875FF"><b>— B.B. King</b></font></p>
+</td></tr>
+</table>
+<h1 align="center">🎓 Education</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Where+the+foundations+were+built" alt="Where the foundations were built"/></div><table align="center">
 <tr>
-<td align="center">
-
-<h3>🏫 Chennai Institute of Technology</h3>
+<td align="center"><h3>🏫 Chennai Institute of Technology</h3>
 <b>B.E. Computer Science and Engineering</b><br/>
 <sub>Chennai, Tamil Nadu · 2024 – 2028</sub>
 <br/><br/>
@@ -203,36 +142,23 @@ Focus:
 <img src="https://img.shields.io/badge/Year-3rd-9875FF?style=for-the-badge&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Graduating-2028-38D9E6?style=for-the-badge&labelColor=10172A"/>
 <br/><br/>
-<b>Core coursework:</b> Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOPs · System Design
-
-</td>
+<b>Core coursework:</b> Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOPs · System Design</td>
 </tr>
+</table><div align="center"><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/><table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#38D9E6">✦ &nbsp; ❝ Knowing is not enough; we must apply. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#38D9E6"><b>— Johann Wolfgang von Goethe</b></font></p>
+</td></tr>
 </table>
 
-<div align="center">
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/>
-
-<h3 align="center"><i>❝ Knowing is not enough; we must apply. ❞</i></h3>
-<p align="center"><b>— Johann Wolfgang von Goethe</b></p>
-
-<br/><br/>
 
 <!-- ═══════════════ 02 · INTERNSHIPS ═══════════════ -->
-<h1 align="center">💼 Experience</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Three+internships+%C2%B7+real+users+%C2%B7+production+code" alt="Three internships · real users · production code"/>
-
-</div>
-
-<!-- 3 internships: two side by side, the third centered below -->
+<h1 align="center">💼 Experience</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Three+internships+%C2%B7+real+users+%C2%B7+production+code" alt="Three internships · real users · production code"/></div><!-- 3 internships: two side by side, the third centered below -->
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
-
-<h3>🏢 Bold Analytics</h3>
+<td width="50%" align="center" valign="top"><h3>🏢 Bold Analytics</h3>
 <b>Data Analyst Intern</b><br/>
 <sub>May – Jul 2026 · Maharashtra, India</sub>
 <br/><br/>
@@ -248,12 +174,8 @@ I also built a <b>12-year financial model</b> covering <b>100% of Nifty 100</b> 
 <br/>
 <sub>NeonDB · Upstash Redis · JWT · Power BI</sub>
 <br/><br/>
-<a href="https://drive.google.com/file/d/181wUlXtExTLguwC7ykhJnLS1xXa1gRNU/view?usp=sharing"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>🏛️ L2M Labs</h3>
+<a href="https://drive.google.com/file/d/181wUlXtExTLguwC7ykhJnLS1xXa1gRNU/view?usp=sharing"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
+<td width="50%" align="center" valign="top"><h3>🏛️ L2M Labs</h3>
 <b>Software Engineer Intern</b><br/>
 <sub>Jan – Mar 2026 · Chennai, India</sub>
 <br/><br/>
@@ -269,14 +191,10 @@ Built <b>REST API integrations</b> and department-wise data management for real-
 <br/>
 <sub>Transaction locking · Row-level checks · REST APIs</sub>
 <br/><br/>
-<a href="https://drive.google.com/file/d/17gZ2lgIaOJ_8Ni_nesXvFUJlHebAWtWe/view?usp=sharing"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
-
-</td>
+<a href="https://drive.google.com/file/d/17gZ2lgIaOJ_8Ni_nesXvFUJlHebAWtWe/view?usp=sharing"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
-
-<h3>🚀 KaizenSpark Tech</h3>
+<td colspan="2" align="center" valign="top"><h3>🚀 KaizenSpark Tech</h3>
 <b>Full Stack Development Intern</b><br/>
 <sub>Jun – Jul 2025 · Chennai, India</sub>
 <br/><br/>
@@ -288,36 +206,23 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,git,github&perline=8" height="36" alt="React, Node.js, Express, JavaScript, HTML, CSS, Git, GitHub"/>
 <br/><br/>
-<a href="https://drive.google.com/file/d/19Lo2aT5JkuiMH41_h0GQMruCQGYEeWa2/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
-
-</td>
+<a href="https://drive.google.com/file/d/19Lo2aT5JkuiMH41_h0GQMruCQGYEeWa2/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
 </tr>
+</table><div align="center"><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/><table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#4F8CFF">✦ &nbsp; ❝ Talk is cheap. Show me the code. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#4F8CFF"><b>— Linus Torvalds</b></font></p>
+</td></tr>
 </table>
 
-<div align="center">
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/>
-
-<h3 align="center"><i>❝ Talk is cheap. Show me the code. ❞</i></h3>
-<p align="center"><b>— Linus Torvalds</b></p>
-
-<br/><br/>
 
 <!-- ═══════════════ 03 · PROJECTS ═══════════════ -->
-<h1 align="center">🚀 Featured Projects</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+Computer+vision+%C2%B7+Cloud+reliability" alt="Agentic AI · RAG · Computer vision · Cloud reliability"/>
-
-</div>
-
-<!-- 5 projects: 2 + 2 side by side, the fifth centered below -->
+<h1 align="center">🚀 Featured Projects</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+Computer+vision+%C2%B7+Cloud+reliability" alt="Agentic AI · RAG · Computer vision · Cloud reliability"/></div><!-- 5 projects: 2 + 2 side by side, the fifth centered below -->
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
-
-<h3>🛡️ Contexta</h3>
+<td width="50%" align="center" valign="top"><h3>🛡️ Contexta</h3>
 <sub><b>Autonomous AI Threat Intelligence Platform</b></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Agentic%20AI-Multi--agent-9875FF?style=flat-square&labelColor=10172A"/>
@@ -336,12 +241,8 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/>
 <sub>Gemini · NetworkX · SSE · Ed25519</sub>
 <br/><br/>
-<a href="https://github.com/barath80/Contexta"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>🔍 VERITAS</h3>
+<a href="https://github.com/barath80/Contexta"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td width="50%" align="center" valign="top"><h3>🔍 VERITAS</h3>
 <sub><b>Verified Evolving Reality & Intelligence Tracking</b></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/TemporalEvidenceBench-1.00%20vs%200.11-4F8CFF?style=flat-square&labelColor=10172A"/>
@@ -360,14 +261,10 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/>
 <sub>RAG · BM25 · Dense retrieval · Reranking · Transformers</sub>
 <br/><br/>
-<a href="https://github.com/barath80/VERITAS"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
+<a href="https://github.com/barath80/VERITAS"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
-
-<h3>☁️ SentinelOps AI</h3>
+<td width="50%" align="center" valign="top"><h3>☁️ SentinelOps AI</h3>
 <sub><b>Cloud Incident Detection & Recovery</b></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Root%20cause-99%25%20correct-4F8CFF?style=flat-square&labelColor=10172A"/>
@@ -386,12 +283,8 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/>
 <sub>Render · Neon · SLO verification</sub>
 <br/><br/>
-<a href="https://github.com/barath80/SentinelOps-AI"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>🚦 UrbanTrace AI</h3>
+<a href="https://github.com/barath80/SentinelOps-AI"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td width="50%" align="center" valign="top"><h3>🚦 UrbanTrace AI</h3>
 <sub><b>ANPR Tracking & City Traffic Analytics</b></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/OCR%20accuracy-92.2%25-4F8CFF?style=flat-square&labelColor=10172A"/>
@@ -410,14 +303,10 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/>
 <sub>YOLO11m · ByteTrack · ONNX Runtime · PostGIS · GraphHopper</sub>
 <br/><br/>
-<a href="https://github.com/barath80/UrbanTrace-AI"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
+<a href="https://github.com/barath80/UrbanTrace-AI"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
-
-<h3>🌱 AgriSmart</h3>
+<td colspan="2" align="center" valign="top"><h3>🌱 AgriSmart</h3>
 <sub><b>AI/ML-Powered Smart Agriculture Platform</b></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Crop%20model-93%25%20%C2%B7%2022%20crops-4F8CFF?style=flat-square&labelColor=10172A"/>
@@ -436,31 +325,20 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <br/>
 <sub>XGBoost · MobileNetV3 · ONNX · Expo</sub>
 <br/><br/>
-<a href="https://github.com/barath80/AgriSmart"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
+<a href="https://github.com/barath80/AgriSmart"><img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 </tr>
+</table><div align="center"><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/><table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#9875FF">✦ &nbsp; ❝ Programs must be written for people to read, and only incidentally for machines to execute. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#9875FF"><b>— Harold Abelson</b></font></p>
+</td></tr>
 </table>
 
-<div align="center">
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/>
-
-<h3 align="center"><i>❝ Programs must be written for people to read, and only incidentally for machines to execute. ❞</i></h3>
-<p align="center"><b>— Harold Abelson</b></p>
-
-<br/><br/>
 
 <!-- ═══════════════ 04 · TECH STACK ═══════════════ -->
-<h1 align="center">🛠️ Tech Stack</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Everything+I+use+to+design%2C+build+and+ship" alt="Everything I use to design, build and ship"/>
-
-</div>
-
-<table align="center">
+<h1 align="center">🛠️ Tech Stack</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Everything+I+use+to+design%2C+build+and+ship" alt="Everything I use to design, build and ship"/></div><table align="center">
 <tr>
 <td align="center" width="22%"><b>💻 Languages</b></td>
 <td align="center">
@@ -533,192 +411,131 @@ Improved deployment reliability with Git-based workflows, structured debugging a
 <img src="https://img.shields.io/badge/Agile-4F8CFF?style=flat-square"/>
 </td>
 </tr>
+</table><div align="center"><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+<br/><table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#38D9E6">✦ &nbsp; ❝ Opportunities don't happen. You create them. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#38D9E6"><b>— Chris Grosser</b></font></p>
+</td></tr>
 </table>
 
-<div align="center">
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/>
-
-<h3 align="center"><i>❝ Opportunities don't happen. You create them. ❞</i></h3>
-<p align="center"><b>— Chris Grosser</b></p>
-
-<br/><br/>
 
 <!-- ═══════════════ 05 · ACHIEVEMENTS ═══════════════ -->
-<h1 align="center">🏆 Achievements & Prizes</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=2+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="2 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
-
-<br/>
-
+<h1 align="center">🏆 Achievements & Prizes</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=F5C45E&center=true&vCenter=true&repeat=false&width=760&height=32&lines=2+hackathon+wins+%C2%B7+4+top+finishes+%C2%B7+%244%2C500+%2B+%E2%82%B920%2C000+in+prizes" alt="2 hackathon wins · 4 top finishes · $4,500 + ₹20,000 in prizes"/>
 <img src="https://img.shields.io/badge/Hackathon%20wins-2-F5C45E?style=for-the-badge&labelColor=10172A"/>
-<img src="https://img.shields.io/badge/Prize%20money-%244%2C500%20%2B%20%E2%82%B920%2C000-4F8CFF?style=for-the-badge&labelColor=10172A"/>
-
-</div>
-
-<!-- 4 achievements: two columns, two rows -->
+<img src="https://img.shields.io/badge/Prize%20money-%244%2C500%20%2B%20%E2%82%B920%2C000-4F8CFF?style=for-the-badge&labelColor=10172A"/></div><!-- 4 achievements: two columns, two rows -->
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
-
-<h3>🥉 BeachHack National Hackathon '26</h3>
+<td width="50%" align="center" valign="top"><h3>🥉 BeachHack National Hackathon '26</h3>
 <img src="https://img.shields.io/badge/2nd%20Runner--Up-CD7F32?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prize-%E2%82%B920%2C000-F5C45E?style=for-the-badge&labelColor=10172A"/>
 <br/><br/>
 Christ University · <b>Feb 2026</b><br/>
 Built <b>Contexta</b>, an autonomous AI threat intelligence platform
 <br/><br/>
-<a href="https://drive.google.com/file/d/1Bam3W_mtbH9-p50hzK9plZW-eOoNYDRn/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>🏆 QIE International Blockchain Hackathon '26</h3>
+<a href="https://drive.google.com/file/d/1Bam3W_mtbH9-p50hzK9plZW-eOoNYDRn/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
+<td width="50%" align="center" valign="top"><h3>🏆 QIE International Blockchain Hackathon '26</h3>
 <img src="https://img.shields.io/badge/Winner-FFD700?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Prize-%242%2C500-F5C45E?style=for-the-badge&labelColor=10172A"/>
 <br/><br/>
 International · <b>Jan 2026</b><br/>
 Built <b>NeuroCred</b>, an on-chain credit passport
 <br/><br/>
-<a href="https://drive.google.com/file/d/1MlTksyzBgjoexza9PlpwJ75jwB-3RqNd/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
-
-</td>
+<a href="https://drive.google.com/file/d/1MlTksyzBgjoexza9PlpwJ75jwB-3RqNd/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
-
-<h3>🎯 Hack Karnataka (GDG) '25</h3>
+<td width="50%" align="center" valign="top"><h3>🎯 Hack Karnataka (GDG) '25</h3>
 <img src="https://img.shields.io/badge/Finalist-9875FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Top%202-in%20track-F5C45E?style=for-the-badge&labelColor=10172A"/>
 <br/><br/>
 3,000+ teams nationwide · <b>Nov 2025</b><br/>
 Built <b>AgriSmart</b>, an AI/ML smart agriculture platform
 <br/><br/>
-<a href="https://drive.google.com/file/d/15OREU4L4j4by--eLLtsYbKQXTJ7rvuGP/view?usp=drive_link"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>🏆 Cardano Hackathon Asia, IBW Edition '25</h3>
+<a href="https://drive.google.com/file/d/15OREU4L4j4by--eLLtsYbKQXTJ7rvuGP/view?usp=drive_link"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
+<td width="50%" align="center" valign="top"><h3>🏆 Cardano Hackathon Asia, IBW Edition '25</h3>
 <img src="https://img.shields.io/badge/Winner-FFD700?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Prize-%242%2C000-F5C45E?style=for-the-badge&labelColor=10172A"/>
 <br/><br/>
 5,000+ teams · <b>Nov 2025</b><br/>
 Built <b>Lendora AI</b>, a DeFi platform
 <br/><br/>
-<a href="https://drive.google.com/file/d/10eZ_gS1Jldy9BC-Xhr89kQsC7DG13hO7/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a>
-
-</td>
+<a href="https://drive.google.com/file/d/10eZ_gS1Jldy9BC-Xhr89kQsC7DG13hO7/view"><img src="https://img.shields.io/badge/Certificate-View-F5C45E?style=flat-square&labelColor=10172A&logo=googledrive&logoColor=F5C45E"/></a></td>
 </tr>
+</table><div align="center"><sub><b>Also competed in:</b> Saturnalia · Sat Hack 2025 · Smart India Hackathon · Microsoft Fabric FabCon Global Hackathon</sub>
+
+
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
+
+
+<table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#F5C45E">✦ &nbsp; ❝ We are what we repeatedly do. Excellence, then, is not an act, but a habit. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#F5C45E"><b>— Will Durant</b></font></p>
+</td></tr>
 </table>
 
-<div align="center">
-
-<sub><b>Also competed in:</b> Saturnalia · Sat Hack 2025 · Smart India Hackathon · Microsoft Fabric FabCon Global Hackathon</sub>
-
-<br/><br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/>
-
-<h3 align="center"><i>❝ We are what we repeatedly do. Excellence, then, is not an act, but a habit. ❞</i></h3>
-<p align="center"><b>— Will Durant</b></p>
-
-<br/><br/>
 
 <!-- ═══════════════ 06 · COMPETITIVE PROGRAMMING ═══════════════ -->
-<h1 align="center">⚡ Competitive Programming</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=1000++problems+%C2%B7+500++day+streak+%C2%B7+C+++throughout" alt="1000+ problems · 500+ day streak · C++ throughout"/>
-
-<br/>
-
+<h1 align="center">⚡ Competitive Programming</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=1000++problems+%C2%B7+500++day+streak+%C2%B7+C+++throughout" alt="1000+ problems · 500+ day streak · C++ throughout"/>
 <img src="https://img.shields.io/badge/%F0%9F%94%A5%20LeetCode%20streak-500%2B%20days-FFA116?style=for-the-badge&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Solved-1000%2B-38D9E6?style=for-the-badge&labelColor=10172A&logo=leetcode&logoColor=FFA116"/>
 <img src="https://img.shields.io/badge/Max%20rating-1815-9875FF?style=for-the-badge&labelColor=10172A"/>
 
-<br/><br/>
 
 <!-- Live LeetCode card: solved count and daily-activity heatmap stay current automatically -->
 <a href="https://leetcode.com/u/barath80/">
 <img src="https://leetcard.jacoblin.cool/barath80?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" width="520" alt="LeetCode stats and activity heatmap"/>
-</a>
-
-</div>
-
-<!-- 3 platforms: two side by side, the third centered below -->
+</a></div><!-- 3 platforms: two side by side, the third centered below -->
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
-
-<h3><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22"/> LeetCode</h3>
+<td width="50%" align="center" valign="top"><h3><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22"/> LeetCode</h3>
 <a href="https://leetcode.com/u/barath80/"><code>barath80</code></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Max%20rating-1815-FFA116?style=flat-square&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Top-10%25-4F8CFF?style=flat-square&labelColor=10172A"/>
 <br/>
 <img src="https://img.shields.io/badge/Solved-1000%2B-38D9E6?style=flat-square&labelColor=10172A"/>
-<img src="https://img.shields.io/badge/Streak-500%2B%20days-9875FF?style=flat-square&labelColor=10172A"/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3><img src="https://cdn.simpleicons.org/codechef/B9875A" height="22"/> CodeChef</h3>
+<img src="https://img.shields.io/badge/Streak-500%2B%20days-9875FF?style=flat-square&labelColor=10172A"/></td>
+<td width="50%" align="center" valign="top"><h3><img src="https://cdn.simpleicons.org/codechef/B9875A" height="22"/> CodeChef</h3>
 <a href="https://www.codechef.com/users/barath80"><code>barath80</code></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Max%20rating-1183-B9875A?style=flat-square&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Solved-222%2B-38D9E6?style=flat-square&labelColor=10172A"/>
 <br/>
-<img src="https://img.shields.io/badge/Badges-Bronze%20%26%20Gold-F5C45E?style=flat-square&labelColor=10172A"/>
-
-</td>
+<img src="https://img.shields.io/badge/Badges-Bronze%20%26%20Gold-F5C45E?style=flat-square&labelColor=10172A"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
-
-<h3><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="22"/> Codeforces</h3>
+<td colspan="2" align="center" valign="top"><h3><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="22"/> Codeforces</h3>
 <a href="https://codeforces.com/profile/sunkireddybarath07"><code>sunkireddybarath07</code></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Max%20rating-706-1F8ACB?style=flat-square&labelColor=10172A"/>
 <img src="https://img.shields.io/badge/Status-Active%20contestant-9875FF?style=flat-square&labelColor=10172A"/>
 <br/>
-<sub>Building problem-solving speed and logic, C++ throughout</sub>
-
-</td>
+<sub>Building problem-solving speed and logic, C++ throughout</sub></td>
 </tr>
-</table>
-
-<div align="center">
-
-<br/>
+</table><div align="center"><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/><br/>
-
-<!-- ═══════════════ 07 · CONTACT ═══════════════ -->
-<h3 align="center"><i>❝ Alone we can do so little; together we can do so much. ❞</i></h3>
-<p align="center"><b>— Helen Keller</b></p>
-
-<br/>
-
-<h1 align="center">🤝 Let's Connect</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
-
-<br/>
-
+<br/><br/><!-- ═══════════════ 07 · CONTACT ═══════════════ -->
+<table align="center" width="100%">
+<tr><td align="center" bgcolor="#10172A">
+<h3 align="center"><font color="#4F8CFF">✦ &nbsp; ❝ Alone we can do so little; together we can do so much. ❞ &nbsp; ✦</font></h3>
+<p align="center"><font color="#4F8CFF"><b>— Helen Keller</b></font></p>
+</td></tr>
+</table>
+<h1 align="center">🤝 Let's Connect</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Great+things+are+built+when+curious+minds+come+together" alt="Great things are built when curious minds come together"/>
 Open to software engineering internships, open-source collaboration, and building products with curious teams.
 
-<br/><br/>
+
 
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 ```
