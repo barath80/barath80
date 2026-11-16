@@ -8,7 +8,7 @@
 --><!-- ═══════════════ HERO ═══════════════ -->
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=50&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SUNKIREDDY+BARATH" alt="Sunkireddy Barath"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38D9E6&center=true&vCenter=true&width=860&height=40&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products" alt="Software Engineer · Gen AI & Agentic AI Engineer"/>
 
-<br/>
+<br/><br/>
 <a href="https://www.linkedin.com/in/sunkireddy-barath-71b071340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sunkireddybarath07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -53,64 +53,109 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 </table></div>
 <br/>
 <!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
-<!-- C++ code box: title bar, code and output share ONE centered table so widths always match -->
-<table align="center">
-<tr>
-<td align="center">🔴 🟡 🟢 &nbsp;&nbsp; <b>intro.cpp</b> &nbsp; <sub>C++17</sub></td>
-</tr>
-<tr>
-<td>
 
-cpp
+<!-- C++ CODE BOX: INTRODUCTION -->
+<table align="center" width="100%">
+<tr>
+<td align="center" bgcolor="#10172A">
+  <font color="#FF6B6B">●</font>
+  <font color="#F5C45E">●</font>
+  <font color="#38D9E6">●</font>
+  &nbsp;&nbsp;
+  <b><font color="#FFFFFF">intro.cpp</font></b>
+  &nbsp;
+  <sub><font color="#38D9E6">C++17</font></sub>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#0D1117">
+
+```cpp
+// Personal Engineer Profile
+
 #include <iostream>
 #include <string>
 #include <vector>
 using namespace std;
 
+// Engineer Structure
 struct Engineer {
+
+    // Personal Information
     string name    = "Sunkireddy Barath";
     string college = "Chennai Institute of Technology";
     string degree  = "B.E. Computer Science and Engineering";
     string batch   = "2024 - 2028";
     double cgpa    = 8.78;
-    string motto   = "Build systems. Solve problems. Ship ideas.";
 
+    // Personal Motto
+    string motto = "Build systems. Solve problems. Ship ideas.";
+
+    // Technical Skills
     vector<string> stack = {
         "C++", "Python", "Java", "JavaScript", "TypeScript"
     };
+
+    // Areas of Focus
     vector<string> focus = {
-        "Gen AI & Agentic AI", "Full stack", "Distributed systems", "Cloud"
+        "Gen AI & Agentic AI",
+        "Full stack",
+        "Distributed systems",
+        "Cloud"
     };
 };
 
+// Main Function
 int main() {
+
+    // Create Engineer Object
     Engineer me;
 
+    // Display Introduction
     cout << "Hello, World!\n";
     cout << me.name << " | " << me.degree << "\n";
-    cout << me.college << " | " << me.batch << " | CGPA " << me.cgpa << "\n\n";
+    cout << me.college << " | " << me.batch
+         << " | CGPA " << me.cgpa << "\n\n";
 
+    // Display Technical Stack
     cout << "Stack:\n";
-    for (const auto& s : me.stack) cout << "  > " << s << "\n";
 
+    for (const auto& s : me.stack)
+        cout << "  > " << s << "\n";
+
+    // Display Areas of Focus
     cout << "\nFocus:\n";
-    for (const auto& f : me.focus) cout << "  > " << f << "\n";
 
+    for (const auto& f : me.focus)
+        cout << "  > " << f << "\n";
+
+    // Display Motto
     cout << "\n\"" << me.motto << "\"\n";
+
     return 0;
 }
-
+```
 
 </td>
 </tr>
-<tr>
-<td align="center"><b>Terminal</b> &nbsp; <sub>$ g++ -std=c++17 intro.cpp -o intro && ./intro</sub></td>
-</tr>
-<tr>
-<td>
 
-text
+<tr>
+<td align="center" bgcolor="#10172A">
+  <font color="#38D9E6"><b>● TERMINAL</b></font>
+  &nbsp;
+  <font color="#8993A8"><sub>g++ -std=c++17 intro.cpp -o intro && ./intro</sub></font>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#0D1117">
+
+```text
+$ g++ -std=c++17 intro.cpp -o intro && ./intro
+
 Hello, World!
+
 Sunkireddy Barath | B.E. Computer Science and Engineering
 Chennai Institute of Technology | 2024 - 2028 | CGPA 8.78
 
@@ -128,20 +173,12 @@ Focus:
   > Cloud
 
 "Build systems. Solve problems. Ship ideas."
-
+```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
-<br/>
-
-<h3 align="center"><i>❝ The beautiful thing about learning is that nobody can take it away from you. ❞</i></h3>
-<p align="center"><b>— B.B. King</b></p>
 
 <br/>
 <h1 align="center">🎓 Education</h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=9875FF&center=true&vCenter=true&repeat=false&width=760&height=32&lines=Where+the+foundations+were+built" alt="Where the foundations were built"/></div><table align="center">
