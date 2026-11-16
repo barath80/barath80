@@ -13,11 +13,8 @@
 <a href="https://barath-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://leetcode.com/u/barath80/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/barath80"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-
 <img src="https://komarev.com/ghpvc/?username=barath80&label=Profile%20views&color=4F8CFF&style=flat-square&abbreviated=true" alt="Profile views"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=45&repeat=true&lines=Software+Engineer;Gen+AI+%26+Agentic+AI+Engineer;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLMs;Solving+real-world+problems;Turning+projects+into+products;Let's+Build+Something+Amazing+Together;Turning+Ideas+into+Products;Think+Big+%C2%B7+Build+Boldly+%C2%B7+Make+an+Impact;Build+Systems+%C2%B7+Solve+Problems+%C2%B7+Ship+Ideas" alt="Software Engineer | Gen AI | Building Amazing Products"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=58&lines=LET%27S%20BUILD%20SOMETHING%20AMAZING%20TOGETHER;TURNING%20IDEAS%20INTO%20PRODUCTS" alt="LET'S BUILD SOMETHING AMAZING TOGETHER — TURNING IDEAS INTO PRODUCTS"/>
 
