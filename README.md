@@ -58,9 +58,9 @@ I've normalized <b>600K+ records</b> into a production API, tracked vehicles acr
 <table align="center" width="100%">
 <tr>
 <td align="center" bgcolor="#10172A">
-  <font color="#FF6B6B">●</font>
-  <font color="#F5C45E">●</font>
-  <font color="#38D9E6">●</font>
+  <font color="#FF6B6B">🔴</font>
+  <font color="#F5C45E">🟡</font>
+  <font color="#38D9E6">🟢</font>
   &nbsp;&nbsp;
   <b><font color="#FFFFFF">intro.cpp</font></b>
   &nbsp;
