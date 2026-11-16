@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=barath80&label=Profile%20views&color=4F8CFF&style=flat-square&abbreviated=true" alt="Profile views"/>
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=58&lines=LET%27S%20BUILD%20SOMETHING%20AMAZING%20TOGETHER;TURNING%20IDEAS%20INTO%20PRODUCTS" alt="LET'S BUILD SOMETHING AMAZING TOGETHER — TURNING IDEAS INTO PRODUCTS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=Let's+Build+Something+Amazing+Together;Turning+Ideas+into+Products;Think+Big+%C2%B7+Build+Boldly;Innovate+Beyond+Boundaries;Create+Something+Extraordinary" alt="Let's Build Something Amazing Together"/>
 
 
 <!-- ═══════════════ 01 · ABOUT ═══════════════ -->
