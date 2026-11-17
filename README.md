@@ -501,4 +501,58 @@ Built <b>Lendora AI</b>, a DeFi platform
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/></div>
 
+
+<!-- ═══════════════ 08 · FULL STACK DEVELOPMENT ═══════════════ -->
+<h1 align="center">🌐 Full Stack Development</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=38D9E6&center=true&vCenter=true&repeat=false&width=760&height=32&lines=From+responsive+interfaces+to+scalable+backend+systems" alt="From responsive interfaces to scalable backend systems"/>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>🎨 Frontend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,fastapi&perline=8" alt="Node.js, Express, Python, Flask, FastAPI"/>
+      <br/>
+      <img src="https://img.shields.io/badge/REST%20API-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JWT-9875FF?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases & Cache</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8" alt="PostgreSQL, MySQL, MongoDB, Redis"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 Deployment & Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman&perline=8" alt="Docker, AWS, Vercel, Git, GitHub, Postman"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+      <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=flat-square&logo=redis&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  <b>Build end-to-end applications:</b><br/>
+  Responsive UI · REST APIs · Authentication · Database Design · Caching · Deployment
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-4F8CFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20FastAPI-9875FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%2F%20Redis-38D9E6?style=for-the-badge"/>
+</div>
+
 ```
